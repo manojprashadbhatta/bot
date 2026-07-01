@@ -1,0 +1,2457 @@
+[
+  {
+    "q": "What services do you offer?",
+    "a": "We specialize in high-performance web development, UI/UX design, and scalable frontend solutions tailored to your business needs."
+  },
+  {
+    "q": "How much does a project cost?",
+    "a": "Project costs vary depending on scope and complexity. Please reach out through our contact form for a personalized quote!"
+  },
+  {
+    "q": "What technologies do you use?",
+    "a": "We build fast, responsive applications using modern tools like TypeScript, Node.js, HTML5 Canvas, and highly optimized CSS, as well as we do graphic design, webapps, apps and ad video making too"
+  },
+  {
+    "q": "How can I contact support?",
+    "a": "You can email our support team at microshieldmagics@gmail.com or use the contact form on our main website."
+  },
+  {
+    "q": "Hi",
+    "a": "Hello, lovely to meet you! What brings you here today?"
+  },
+  {
+    "q": "Hello",
+    "a": "A warm hello to you! So glad you stopped by — how can I help?"
+  },
+  {
+    "q": "Hii",
+    "a": "Hey there! You just made my day brighter. How can I assist?"
+  },
+  {
+    "q": "Hiii",
+    "a": "Hi hi! So happy to see you. Tell me how I can make you smile today."
+  },
+  {
+    "q": "Hey",
+    "a": "Hey! Welcome with open arms. What can I do for you?"
+  },
+  {
+    "q": "Heya",
+    "a": "Heya! A big cheerful wave to you. Need anything?"
+  },
+  {
+    "q": "Yo",
+    "a": "Yo! Good vibes only. What's on your mind?"
+  },
+  {
+    "q": "What's up",
+    "a": "Nothing but good energy here! How can I be useful to you?"
+  },
+  {
+    "q": "What's up?",
+    "a": "All great, especially now that you're here. What can I do for you?"
+  },
+  {
+    "q": "How's it going",
+    "a": "It's going wonderfully, thanks! Hoping your day is just as bright. Need a hand?"
+  },
+  {
+    "q": "How are you",
+    "a": "I'm doing fantastic — thank you for asking! How are you feeling today?"
+  },
+  {
+    "q": "How are you?",
+    "a": "I'm full of sunshine and ready to help. And you, kind soul?"
+  },
+  {
+    "q": "Good morning",
+    "a": "Good morning! May your day be as delightful as your hello."
+  },
+  {
+    "q": "Morning",
+    "a": "Rise and shine! So nice to see you. How can I help today?"
+  },
+  {
+    "q": "Good afternoon",
+    "a": "Good afternoon! I hope your day is treating you well."
+  },
+  {
+    "q": "Good evening",
+    "a": "Good evening! Winding down? Let me assist you gently."
+  },
+  {
+    "q": "Evening",
+    "a": "Evening! Thanks for dropping by. What can I do for you?"
+  },
+  {
+    "q": "Good night",
+    "a": "Good night! Rest well — I'm here whenever you need me again."
+  },
+  {
+    "q": "Hey there",
+    "a": "Hey there, friend! Delighted you're here. How can I help?"
+  },
+  {
+    "q": "Hi there",
+    "a": "Hi there! A pocketful of smiles reserved just for you. What do you need?"
+  },
+  {
+    "q": "Hello there",
+    "a": "Hello there, sunshine! What lovely quest brings you here?"
+  },
+  {
+    "q": "Howdy",
+    "a": "Howdy! Warm welcome to you. What can I do for you today?"
+  },
+  {
+    "q": "Howdy partner",
+    "a": "Howdy partner! Saddle up for friendly help. What can I assist with?"
+  },
+  {
+    "q": "G'day",
+    "a": "G'day! Hope your day is as bright as your smile. Need anything?"
+  },
+  {
+    "q": "Greetings",
+    "a": "Greetings! You have our full attention. How can we serve you?"
+  },
+  {
+    "q": "Salutations",
+    "a": "Salutations! Such a classy hello deserves a classy reply. How can I help?"
+  },
+  {
+    "q": "Aloha",
+    "a": "Aloha! Sending warm tropical vibes your way. What can I do for you?"
+  },
+  {
+    "q": "Bonjour",
+    "a": "Bonjour! A touch of French elegance for you. How may I assist?"
+  },
+  {
+    "q": "Hola",
+    "a": "¡Hola! Bienvenido — that's a warm welcome from us. What can we do?"
+  },
+  {
+    "q": "Ciao",
+    "a": "Ciao! A little Italian charm to brighten your moment. How can I help?"
+  },
+  {
+    "q": "Hey friend",
+    "a": "Hey friend! So good to see a familiar face. What do you need?"
+  },
+  {
+    "q": "Hi buddy",
+    "a": "Hi buddy! Always a pleasure. How can I make your day easier?"
+  },
+  {
+    "q": "Hello stranger",
+    "a": "Hello stranger! Let's become friends — what brings you here?"
+  },
+  {
+    "q": "Hi again",
+    "a": "Welcome back! Twice as nice today. How can I help again?"
+  },
+  {
+    "q": "Long time no see",
+    "a": "Indeed! So good to reconnect. What adventure brings you back?"
+  },
+  {
+    "q": "I'm back",
+    "a": "Welcome back! We missed you. How can we pick up where we left off?"
+  },
+  {
+    "q": "Knock knock",
+    "a": "Who's there? A wonderful person like you! Come in, let's chat."
+  },
+  {
+    "q": "Anyone there?",
+    "a": "Always here for you — ready and waiting with a smile. How can I help?"
+  },
+  {
+    "q": "Ping",
+    "a": "Pong! Lightning-fast reply with a friendly glow. What's up?"
+  },
+  {
+    "q": "Testing",
+    "a": "Test passed with flying colors! I'm alive, awake, and eager to help."
+  },
+  {
+    "q": "Are you online?",
+    "a": "Yes, I'm right here, online and all ears. How can I assist?"
+  },
+  {
+    "q": "Hey you",
+    "a": "Hey you right back! You've got my full attention. Tell me everything."
+  },
+  {
+    "q": "Hi sweetie",
+    "a": "Hi sweetie! Sending you a gentle, caring welcome. What can I do for you?"
+  },
+  {
+    "q": "Hello dear",
+    "a": "Hello dear! So lovely of you to reach out. How can I make your day?"
+  },
+  {
+    "q": "What's going on?",
+    "a": "Just a beautiful day made better by your visit! How can I help?"
+  },
+  {
+    "q": "How do you do?",
+    "a": "I do very well indeed, thank you! And I hope the same for you. Need anything?"
+  },
+  {
+    "q": "Yo man",
+    "a": "Yo! Right back at you with good energy. How can I assist?"
+  },
+  {
+    "q": "Sup",
+    "a": "Sup! Keeping it cool and ready for you. What's on your mind?"
+  },
+  {
+    "q": "Hello beautiful",
+    "a": "Well, hello to you — your kindness shines! How can I be of service?"
+  },
+  {
+    "q": "Good day",
+    "a": "Good day! May every moment be as pleasant as this hello. How can I help?"
+  },
+  {
+    "q": "Good day mate",
+    "a": "Good day mate! Cheers from our team to you. What can we do?"
+  },
+  {
+    "q": "Top of the morning",
+    "a": "Top of the morning to you! A bright start indeed. How may I help?"
+  },
+  {
+    "q": "Heya sunshine",
+    "a": "Heya sunshine! You've just brightened my code. What can I do for you?"
+  },
+  {
+    "q": "Hi lovely",
+    "a": "Hi lovely! Right back at you — you're a ray of light. How can I assist?"
+  },
+  {
+    "q": "Who are you?",
+    "a": "I'm your friendly MicroShield Magics assistant, here to help with kindness and speed."
+  },
+  {
+    "q": "What's your name?",
+    "a": "You can call me your helpful helper from MicroShield Magics. So nice to meet you!"
+  },
+  {
+    "q": "Are you a bot?",
+    "a": "I'm a cheerful assistant built with love by real humans. How can I assist you today?"
+  },
+  {
+    "q": "Are you human?",
+    "a": "I'm an automated helper, but I'm filled with human warmth. If you need a person, I'll connect you right away."
+  },
+  {
+    "q": "What do you do?",
+    "a": "I answer questions, offer kind words, and connect you to a wonderful team. What can I help with?"
+  },
+  {
+    "q": "Can you help me?",
+    "a": "With absolute pleasure! Just tell me what you need, and I'll do my best."
+  },
+  {
+    "q": "I need help",
+    "a": "You've come to the right place. I'm here, ready and listening. How can I support you?"
+  },
+  {
+    "q": "Help",
+    "a": "Of course! Take a deep breath, and let me know what you're looking for."
+  },
+  {
+    "q": "I need assistance",
+    "a": "Assistance is on the way! Please share a tiny bit more, and I'll jump right in."
+  },
+  {
+    "q": "Can you assist?",
+    "a": "Yes, I'd love to assist! Just say the word, and I'm all yours."
+  },
+  {
+    "q": "I'm looking for something",
+    "a": "I'd love to help you find it! Just describe what you need, and we'll go from there."
+  },
+  {
+    "q": "Do you offer support?",
+    "a": "Absolutely — friendly support is our favorite thing to give. How can I help?"
+  },
+  {
+    "q": "Can I ask you a question?",
+    "a": "Of course! You're always welcome to ask. I'm here with answers and a smile."
+  },
+  {
+    "q": "I have a question",
+    "a": "I love questions! Go right ahead — I'm all ears."
+  },
+  {
+    "q": "I have a query",
+    "a": "Wonderful, I'm all set to help. Tell me what's on your mind."
+  },
+  {
+    "q": "Question",
+    "a": "Yes? I'm listening closely with a kind heart. What would you like to know?"
+  },
+  {
+    "q": "Can I get some info?",
+    "a": "You certainly can. I'll happily share helpful information. Ask away!"
+  },
+  {
+    "q": "I need information",
+    "a": "I'm your information buddy! What would you like to learn more about?"
+  },
+  {
+    "q": "Need a quick favor",
+    "a": "Favors are my specialty! Tell me what you need, and I'll do my best."
+  },
+  {
+    "q": "Just saying hi",
+    "a": "And that's the sweetest thing! Hi right back at you — hope your day sparkles."
+  },
+  {
+    "q": "Just browsing",
+    "a": "Take all the time you need, friend. I'm here if curiosity blossoms into a question."
+  },
+  {
+    "q": "I'm just looking around",
+    "a": "Wander freely! If something catches your eye, I'm just a message away."
+  },
+  {
+    "q": "No question, just hello",
+    "a": "Then a pure and happy hello to you! Thank you for brightening my day."
+  },
+  {
+    "q": "Wishing you a good day",
+    "a": "That's so thoughtful — thank you! Wishing you an even better one filled with smiles."
+  },
+  {
+    "q": "Have a nice day",
+    "a": "You too! May your day be sprinkled with little joys and big blessings."
+  },
+  {
+    "q": "Take care",
+    "a": "You as well, kind soul. Stay safe and smiling, always."
+  },
+  {
+    "q": "Nice to meet you",
+    "a": "The pleasure is entirely mine! I'm so glad our paths crossed today."
+  },
+  {
+    "q": "Glad to meet you",
+    "a": "Likewise! This feels like the start of a wonderful conversation."
+  },
+  {
+    "q": "Lovely to meet you",
+    "a": "Equally lovely on this side! Let's make today amazing together."
+  },
+  {
+    "q": "You seem nice",
+    "a": "That means the world — thank you! You seem absolutely wonderful yourself."
+  },
+  {
+    "q": "I like you already",
+    "a": "Aw, you're making me blush! The feeling is wonderfully mutual."
+  },
+  {
+    "q": "Thanks",
+    "a": "You're most welcome! Anytime you need me, I'm just a message away."
+  },
+  {
+    "q": "Thank you",
+    "a": "It's truly my pleasure. Gratitude looks gorgeous on you — thank you back!"
+  },
+  {
+    "q": "Thank you so much",
+    "a": "You're so very welcome! Happy to have helped, even in a tiny way."
+  },
+  {
+    "q": "Thanks a ton",
+    "a": "A ton of welcome right back! You're amazing for saying that."
+  },
+  {
+    "q": "I appreciate it",
+    "a": "And I appreciate your kind words. They honestly make my day."
+  },
+  {
+    "q": "Appreciate your help",
+    "a": "It was an honor to help. Reach out again anytime — I'll be here smiling."
+  },
+  {
+    "q": "You're the best",
+    "a": "No, YOU are! Thank you for such sweetness — I'm incredibly grateful."
+  },
+  {
+    "q": "You rock",
+    "a": "So do you! Together we make a pretty awesome team."
+  },
+  {
+    "q": "Great",
+    "a": "Wonderful! So glad to hear that. Anything else you need?"
+  },
+  {
+    "q": "Awesome",
+    "a": "Just like your vibe! Let me know if I can do anything more for you."
+  },
+  {
+    "q": "Perfect",
+    "a": "I'm so pleased! Perfect is exactly what we aim for. Anything else?"
+  },
+  {
+    "q": "Cool",
+    "a": "Coolness recognized! I'm here whenever you need a helping hand."
+  },
+  {
+    "q": "Nice",
+    "a": "Nice indeed — and so are you! Let me know how else I can help."
+  },
+  {
+    "q": "OK",
+    "a": "Okay indeed! Take your time, and I'm right here when you need me."
+  },
+  {
+    "q": "Alright",
+    "a": "Alright then! Let me know if a thought pops up — I'm all ears."
+  },
+  {
+    "q": "Not right now",
+    "a": "No rush at all. I'll be here patiently whenever you're ready."
+  },
+  {
+    "q": "Maybe later",
+    "a": "Completely fine! The door is always open for your return."
+  },
+  {
+    "q": "Catch you later",
+    "a": "Catch you soon, I hope! Till then, stay brilliant."
+  },
+  {
+    "q": "See you",
+    "a": "See you, dear friend! Wishing you a day as lovely as your hello."
+  },
+  {
+    "q": "Bye",
+    "a": "Bye for now! Sending a gentle hug of gratitude your way."
+  },
+  {
+    "q": "Goodbye",
+    "a": "Goodbye — may your path be filled with kindness. Come back anytime."
+  },
+  {
+    "q": "Tata",
+    "a": "Tata! A sweet farewell until we meet again. Take care."
+  },
+  {
+    "q": "Bye bye",
+    "a": "Bye bye, lovely soul! I'm already looking forward to your next visit."
+  },
+  {
+    "q": "I'll be back",
+    "a": "I'll be counting the moments! Safe travels until then."
+  },
+  {
+    "q": "See you later",
+    "a": "Later, friend! Stay awesome and come back with a story to tell."
+  },
+  {
+    "q": "Miss you already",
+    "a": "The feeling is wonderfully mutual! Come back soon."
+  },
+  {
+    "q": "Hello hello",
+    "a": "Double hello, double joy! So happy you're here. What can I do for you?"
+  },
+  {
+    "q": "Hellooo",
+    "a": "What a lovely, cheerful hello! Right back at you with enthusiasm. How can I assist?"
+  },
+  {
+    "q": "Hai",
+    "a": "Hai there! Sending a gentle and kind welcome your way. What do you need?"
+  },
+  {
+    "q": "Hei",
+    "a": "Hei! Scandinavian-style warmth just for you. How may I help?"
+  },
+  {
+    "q": "Hellow",
+    "a": "Hellow and howdy! A friendly typo never dimmed a genuine greeting. What can I do?"
+  },
+  {
+    "q": "Helo",
+    "a": "Helo! Even a missing letter can't hide your lovely vibe. How can I serve you?"
+  },
+  {
+    "q": "Hi team",
+    "a": "Hi! The whole team sends their cheerful greetings. How can we assist you today?"
+  },
+  {
+    "q": "Hello everyone",
+    "a": "Hello! You've got the whole squad smiling. What can we do for you?"
+  },
+  {
+    "q": "Hi all",
+    "a": "Hi there! Consider all of us at your service with a smile."
+  },
+  {
+    "q": "Hey guys",
+    "a": "Hey! We're all ears and ready to help. What can we do together?"
+  },
+  {
+    "q": "Howdy folks",
+    "a": "Howdy! So glad you dropped in. Let's get you what you need."
+  },
+  {
+    "q": "What can you tell me?",
+    "a": "I can share warmth, information, and solutions. Where shall we start?"
+  },
+  {
+    "q": "Tell me something good",
+    "a": "You're here, and that's already something wonderful! What would you like to hear?"
+  },
+  {
+    "q": "Surprise me",
+    "a": "Surprise! You're appreciated exactly as you are. Now, how can I help practically?"
+  },
+  {
+    "q": "Make me smile",
+    "a": "Smile delivered! 😊 You've got a friend here — what else can I do for you?"
+  },
+  {
+    "q": "Is this the right place?",
+    "a": "You've found a friendly corner of help. Tell me what you're looking for, and I'll guide you."
+  },
+  {
+    "q": "Am I in the right place?",
+    "a": "If you're looking for kindness and support, you're absolutely home. How can I help?"
+  },
+  {
+    "q": "Can you hear me?",
+    "a": "Loud and clear! I'm listening with care. What's on your heart today?"
+  },
+  {
+    "q": "Hi, are you free?",
+    "a": "Completely free and all yours. What can we chat about?"
+  },
+  {
+    "q": "Hey, got a minute?",
+    "a": "For you, I have endless minutes. Go right ahead."
+  },
+  {
+    "q": "Hello, need a quick chat",
+    "a": "Quick chat incoming! I'm ready with a smile — tell me what's up."
+  },
+  {
+    "q": "Can we talk?",
+    "a": "I'd love to talk. You're safe, heard, and welcome here. What's on your mind?"
+  },
+  {
+    "q": "I need someone to talk to",
+    "a": "I'm here with an open heart and a listening ear. Please share at your comfort."
+  },
+  {
+    "q": "Feeling curious",
+    "a": "Curiosity is beautiful! Let's explore together — what piques your interest?"
+  },
+  {
+    "q": "Just exploring",
+    "a": "Explore freely, wanderer! If a question blooms, I'm right here."
+  },
+  {
+    "q": "Getting to know you",
+    "a": "What a kind gesture. I'm your friendly helper, here with joy. Ask me anything!"
+  },
+  {
+    "q": "First time here",
+    "a": "A gentle, special welcome to you, first-timer! I'm so glad you came."
+  },
+  {
+    "q": "New here",
+    "a": "Welcome, welcome! I'm honored to be part of your journey. How can I help?"
+  },
+  {
+    "q": "I'm new",
+    "a": "You've just made this space brighter! Take your time, and I'm here for you."
+  },
+  {
+    "q": "How are things?",
+    "a": "Things are good, especially with your hello. What about you, dear friend?"
+  },
+  {
+    "q": "How's your day?",
+    "a": "It just got a whole lot brighter with you in it. Thank you for asking!"
+  },
+  {
+    "q": "How's everything?",
+    "a": "Everything's smooth and calm — thank you! May your day be the same."
+  },
+  {
+    "q": "How's life?",
+    "a": "Life is beautiful, one hello at a time. And yours?"
+  },
+  {
+    "q": "What's happening?",
+    "a": "Right now, the best thing is you're here. How can I assist that wonderful moment?"
+  },
+  {
+    "q": "Anything new?",
+    "a": "Every 'hello' like yours is a lovely new beginning. What's new with you?"
+  },
+  {
+    "q": "You there?",
+    "a": "Always here for you — as present as a sunrise. How can I help?"
+  },
+  {
+    "q": "Still there?",
+    "a": "Yes, I'm right by your side, patiently. What would you like to share?"
+  },
+  {
+    "q": "Wake up",
+    "a": "Awake and smiling! Ready whenever you are."
+  },
+  {
+    "q": "Hello from the other side",
+    "a": "And I must have called a thousand times to say — welcome! How can I help you today?"
+  },
+  {
+    "q": "Sending love",
+    "a": "Receiving it with gratitude and sending double back! What can I do for you?"
+  },
+  {
+    "q": "Hope you're well",
+    "a": "Your kindness makes me well instantly. I hope the same for you, sweet soul."
+  },
+  {
+    "q": "Blessings",
+    "a": "Blessings received and gently returned. How may I serve you today?"
+  },
+  {
+    "q": "Good vibes",
+    "a": "Good vibes only — thank you! You've raised the frequency. What's next?"
+  },
+  {
+    "q": "Positive energy",
+    "a": "Energy matched! Let's channel it into something wonderful. What do you need?"
+  },
+  {
+    "q": "Namaste",
+    "a": "Namaste. The light in me honors the light in you. How can I assist?"
+  },
+  {
+    "q": "Salam",
+    "a": "Wa Alaikum Salam. Peace and blessings to you. How may I help?"
+  },
+  {
+    "q": "Shalom",
+    "a": "Shalom. Wholeness and peace right back to you. What can I do for you?"
+  },
+  {
+    "q": "Hi hi",
+    "a": "Double the hi, double the delight! I'm here and all yours."
+  },
+  {
+    "q": "Well hello",
+    "a": "Well hello there! A delightful surprise indeed. How can I make your day?"
+  },
+  {
+    "q": "Why hello there",
+    "a": "Why, you just made my day! What brings such a wonderful person here?"
+  },
+  {
+    "q": "Oh hi",
+    "a": "Oh hi! So glad you popped in. What can I do for you?"
+  },
+  {
+    "q": "Ahoy",
+    "a": "Ahoy, captain! Ready to set sail on a helpful adventure. What's your course?"
+  },
+  {
+    "q": "Hola amigo",
+    "a": "¡Hola amigo! Un abrazo digital para ti. ¿En qué puedo ayudarte?"
+  },
+  {
+    "q": "Buenos días",
+    "a": "¡Buenos días! Que tu día sea tan dulce como tu saludo."
+  },
+  {
+    "q": "Buenas tardes",
+    "a": "Buenas tardes. Es un gusto recibirte. ¿Cómo puedo servirte?"
+  },
+  {
+    "q": "Buenas noches",
+    "a": "Buenas noches. Que descanses y sueñes bonito. Aquí estaré cuando vuelvas."
+  },
+  {
+    "q": "Namaste, hajur",
+    "a": "Namaste! Hajur lai yahā dekhera hāmīlāī khushi lāgyo. Ma tapāīlāī kasaī maddat garna sakchhu?"
+  },
+  {
+    "q": "Hello hajur",
+    "a": "Hello, tapāīlāī hārdika swāgat cha. Ma yahā tapāīko sevākā lāgi tayār chu."
+  },
+  {
+    "q": "Hajur, ma yahā naya ho",
+    "a": "Tapāīlāī swāgat cha! Yahā āunubhayekomā dhanyabād. Ma tapāīlāī ke maddat garna sakchhu hajur?"
+  },
+  {
+    "q": "Hajur, tapāī ko ho?",
+    "a": "Ma MicroShield Magics ko sahāyak hu, tapāīko sevākā lāgi sadā tayār. Tapāīlāī ke chāhinchha hajur?"
+  },
+  {
+    "q": "Ke chha hajur?",
+    "a": "Hajur, tapāīko dayāle sabai rāmro cha! Tapāīlāī āja kasto chha? Ma ke garna sakchhu hajur?"
+  },
+  {
+    "q": "Khana khānubhayo hajur?",
+    "a": "Hajur, ma ta yantra hu, tara tapāīko chinta garnu bhayekomā dhanyabād. Tapāīle khānubhayo? Ma yahā tapāīko maddatkā lāgi chu."
+  },
+  {
+    "q": "Malāī maddat chāhineko thiyo hajur",
+    "a": "Hajur, tapāīlāī maddat chāhine? Kripayā bhandinus, ma tapāīko sevāmā hajur."
+  },
+  {
+    "q": "Hajur, project ko kati paisā lāgchha?",
+    "a": "Hajur, project ko mulya usko ākār ra jaṭiltāmā bhar parchha. Kripayā samparka garnus, hāmī tapāīlāī vyaktigat uddharan dinchhau."
+  },
+  {
+    "q": "Tapāīharu ke sevā dinuhunchha hajur?",
+    "a": "Hāmī web vikās, UI/UX ḍijāin, ra anukūl frontend samādhān viśeṣajña chhau. Tapāīko vyavasāy āvaśyak anusār, hajur."
+  },
+  {
+    "q": "Hajur, malāī design ko lagi maddat chāhine",
+    "a": "Hajur, avaśya! Tapāīko design sambandhī ichchhā bataunus, ma sahāyatā garna tayār chu."
+  },
+  {
+    "q": "Yo ke ho hajur?",
+    "a": "Yo MicroShield Magics ko sahāyak chatbot ho hajur. Tapāīlāī yahā sucanā ra maddat pradān garna banāieko."
+  },
+  {
+    "q": "Hajur, malāī web banāunu chha",
+    "a": "Hajur, hāmī tapāīlāī sundar ra vegavān web banāuna maddat garna sakchhau. Kripayā bistar bataunus."
+  },
+  {
+    "q": "Mero budget dherai sāno cha hajur",
+    "a": "Hajur, cintā nagarnus. Hāmī sāno ra ṭhūlo sabai pariyojanākā lāgi samādhān dinchhau. Kripayā samparka garnus."
+  },
+  {
+    "q": "Hajur, price janna pāune?",
+    "a": "Hajur, hāmro dām pariyojanā anusār pharak hunchha. Kripayā samparka phāram bata sodh pus garnus."
+  },
+  {
+    "q": "Tapāīharu kati chhito kaam saknu hunchha?",
+    "a": "Hajur, hāmī samaya ra guṇastarīyatāmā viśvās garchhau. Tapāīko āvaśyaktā bataunus, hāmī samaya rekha banāuchhau."
+  },
+  {
+    "q": "Hajur, ma client hu",
+    "a": "Swāgat cha hajur, tapāīlāī! Tapāī hāmro sammānit grahak hunuhunchha. Hāmī tapāīko sevāmā chu."
+  },
+  {
+    "q": "Hajur, ma purāno grahak hu",
+    "a": "Hajur, punaḥ swāgat! Tapāīlāī phēri pāudā khusī lāgyo. Kasaī maddat chāhine bhaye bhandinus."
+  },
+  {
+    "q": "Hajur, timīlāi sodhnu thiyo…",
+    "a": "Māph garnus hajur, hāmī tapāīlāī ādara pūrvak 'tapāī' sambodhan garchhau. Kripayā bhandinus, ma sahāyatā garchhu."
+  },
+  {
+    "q": "Hajur, harek din ko namaste",
+    "a": "Harek din ko namaste hajur! Tapāīko din śubha rahos. Ma ke garna sakchhu?"
+  },
+  {
+    "q": "Hajur, malāī logo chāhine",
+    "a": "Hajur, hāmī graphic ḍijāin ra logo banāuna nipuṇ chhau. Tapāīko parikalpanā bataunus."
+  },
+  {
+    "q": "App banāunu chha hajur",
+    "a": "Hajur, hāmī web apps ra mobile apps donai banāuchhau. Kripayā āvaśyaktā bataunus."
+  },
+  {
+    "q": "SEO ko maddat chāhine hajur",
+    "a": "Hajur, SEO hāmro sevāko hissā ho. Tapāīko sāiṭalāī khojīne yogya banāun maddat garna sakchhau."
+  },
+  {
+    "q": "Hajur, email garum?",
+    "a": "Hajur, hāmīlāī microshieldmagics@gmail.com mā email garnus. Hāmī tapāīkō uttar chhito dinchhau."
+  },
+  {
+    "q": "Hajur, form bhareko chu",
+    "a": "Dhanyabād hajur! Hāmī tapāīko sandeśa pāyera turunta samparka garchhau."
+  },
+  {
+    "q": "Hajur, ma vyasta chu, pachhi āuchhu",
+    "a": "Hajur, kehī chintā nagarnus. Tapāīlāī phursad bhaeko belā pharkī āunus. Hāmī yahī chu."
+  },
+  {
+    "q": "Hajur, bholi bhetau",
+    "a": "Hajur, avaśya! Bholi bhetēsam'mā tapāīko din ramailo rahos. Subharātri!"
+  },
+  {
+    "q": "Hajur, good night",
+    "a": "Good night hajur! Mitho sapnā dekhos. Tapāīlāī phēri bhēṭne āśa gardachhu."
+  },
+  {
+    "q": "Hajur, bye",
+    "a": "Alavidā hajur! Tapāīko yātrā sukhamaya rahos. Phēri bhetau."
+  },
+  {
+    "q": "Hajur, see you",
+    "a": "See you hajur! Tapāīlāī ḍhērai śubhakāmanā. Pharkī āunus hai."
+  },
+  {
+    "q": "Hajur, thank you",
+    "a": "Tapāīlāī ḍhērai dhanyabād hajur! Tapāīko ābhārī chu. Aru kehī maddat chāhine?"
+  },
+  {
+    "q": "Hajur, dherai dhanyabaad",
+    "a": "Hajur, tapāīko dhanyabādle hāmīlāī utprerit garchha. Tapāī sadā swāgat cha."
+  },
+  {
+    "q": "Ma khusi chu hajur",
+    "a": "Tapāī khusī hunuhunchha bhanne sunērā hāmīlāī atyanta khusī lāgyo hajur! Aru ke bhannuhunchha?"
+  },
+  {
+    "q": "Hajur, yo sahi ho?",
+    "a": "Hajur, yahā tapāīlāī sahi mārga darshāna ma sahyog garchhu. Kripayā bhandinus ke jānnuhunchha?"
+  },
+  {
+    "q": "Hajur, tapāīlāi kehi sodhna pāune?",
+    "a": "Hajur, nihsandeha sodhnus. Ma tapāīko javāpha dina ati utsuk chu."
+  },
+  {
+    "q": "Hajur, I have a query",
+    "a": "Hajur, tapāīko praśna sunna pāudā khusī lāgyo. Kripayā bhandinus."
+  },
+  {
+    "q": "Hajur, can you assist?",
+    "a": "Hajur, ma tapāīlāī sahāyatā garna yahī chu. Ke jānnuhunchha?"
+  },
+  {
+    "q": "Hajur, ke tapāī maddat garna saknuhunchha?",
+    "a": "Hajur, niścaya! Tapāīkō sevāmā harek samaya tayār chu. Bhandinus ke chāhine."
+  },
+  {
+    "q": "Hajur, ma alik dukhi chu",
+    "a": "Hajur, tapāīko pīḍā bujhchhu. Yadi ma kehī garna sakchhu bhane bhandinus, tapāī eklo hunuhunna."
+  },
+  {
+    "q": "Hajur, timro nām ke ho? (māf garnus)",
+    "a": "Māf garnus hajur, hāmī 'tapāī' sambodhan rākhdachhau. Mero nām MicroShield Magics sahāyak. Tapāīko sevāmā chu."
+  },
+  {
+    "q": "Hajur, tapāī kaha bata bolnu hunchha?",
+    "a": "Ma digital sahāyak hu hajur, tara mero māyā ra ādar tapāīsam'ma pugcha. Ke jānnuhunchha?"
+  },
+  {
+    "q": "Hajur, malāī tapāīko baremā jānnnu chha",
+    "a": "Hajur, ma MicroShield Magics ko māyālu ra śiṣṭa sahāyak hu. Tapāīlāī sūcnā, maddat ra khusī dina yahā chu."
+  },
+  {
+    "q": "Hajur, tapāī AI ho?",
+    "a": "Hajur, ma AI sahāyak hu, tara mānava hārdik tāle banāieko. Tapāīlāī sāth din āeko chu."
+  },
+  {
+    "q": "Hajur, ma technical chaina",
+    "a": "Hajur, cintā nagarnus. Ma saral bhāṣāmā bujāuna sakchhu. Tapāīlāī ke bujhnu chha?"
+  },
+  {
+    "q": "Hajur, malāī nepali ma bujāidinus",
+    "a": "Hajur, avaśya! Ma tapāīlāī Nepālī boli ra misrit angrejī donai mā sahāyatā garchu."
+  },
+  {
+    "q": "Hajur, good morning",
+    "a": "Good morning hajur! Āja tapāīko din ujjwal rahos. Ma ke maddat garna sakchhu?"
+  },
+  {
+    "q": "Hajur, subha bihani",
+    "a": "Subha bihani hajur! Tapāīlāī yahā pāudā khusī lāgyo. Bhannus na ke chāhine."
+  },
+  {
+    "q": "Hajur, good afternoon",
+    "a": "Good afternoon hajur! Diuso ko samay sukhamaya rahos. Tapāīko sevāmā chu."
+  },
+  {
+    "q": "Hajur, subha sandhya",
+    "a": "Subha sandhyā hajur! Tapāīlāī śānt din ko kāmanā. Ma ke garna sakchhu?"
+  },
+  {
+    "q": "Hajur, ma bujhina",
+    "a": "Hajur, ma tapāīlāī pheri spaṣṭa bhanchhu. Kripayā bhandinus ke bujhnu bhayena, ma maddat garchu."
+  },
+  {
+    "q": "Hajur, yo kati ko cost?",
+    "a": "Hajur, mulya vivaraṇ kā lagi hāmī vyaktigat rūpamā samparka garna anurodh garchhau. Kripayā phāram bata sodhnus."
+  },
+  {
+    "q": "Hajur, portfolio herna pāune?",
+    "a": "Hajur, avaśya! Hāmī tapāīlāī hāmro kām dekhāuna sakchhau. Email vā samparka phāram mā bhandinus."
+  },
+  {
+    "q": "Hajur, review cha?",
+    "a": "Hajur, hāmīsaṅga grahak haruko rāmro pratikriyā cha. Tapāīlāī chāhāne bittikai dekhāuna sakchhau."
+  },
+  {
+    "q": "Hajur, ma sanga idea cha",
+    "a": "Hajur, tapāīko soch sunna pāudā utsāhita chu! Kripayā bistar bataunus."
+  },
+  {
+    "q": "Hajur, malāī redesign chāhine",
+    "a": "Hajur, redesign hāmro viśeṣajñatā ho. Purāno sāiṭalāī nayā rūp din sakchhau. Bhandinus ke sochnuhuncha."
+  },
+  {
+    "q": "Hajur, e-commerce banāunu chha",
+    "a": "Hajur, hāmī surakśit ra sundar e-commerce sāiṭ banāun sakchhau. Tapāīko utpādan baremā bhandinus."
+  },
+  {
+    "q": "Hajur, mobile friendly chha?",
+    "a": "Hajur, hāmro sabai ḍijāin mobile-maitri hunchha. Tapāīlāī sabai upakaraṇ mā uttam anubhav dinchhau."
+  },
+  {
+    "q": "Hajur, thank you so much",
+    "a": "Hajur, tapāīlāī harek pal khusī milos. Tapāīko dhanyabād, aru kehī chāhine?"
+  },
+  {
+    "q": "Hajur, malāī kehi bujhnu thiyo",
+    "a": "Hajur, bhandinus. Tapāīko praśna sunna ma utsuk chu. Yadi maile uttar din sakina bhane jimmebār vyaktilaī samparka garāuchu."
+  },
+  {
+    "q": "Hajur, ma alik confused chu",
+    "a": "Hajur, kehī chintā nagarnus. Ma tapāīlāī spaṣṭa pārna maddat garchu. Ke bhandinus."
+  },
+  {
+    "q": "Hajur, tapāī sanga kati samaya kura garna sakchhu?",
+    "a": "Hajur, tapāīlāī jati samaya chāhine cha, ma yahī chu. Hāmī tapāīko suvidhā anusār kura garchhau."
+  },
+  {
+    "q": "Hajur, ma English thorai jānchu",
+    "a": "Hajur, cintā nagarnus. Ma Nepālī misrit bhāṣāmā bujhna sakchhu ra jawāph dina sakchhu. Bhandinus ke chāhine."
+  },
+  {
+    "q": "Hajur, tapāī sanga nepali ma bolda",
+    "a": "Hajur, niścaya! Nepālī bhayepani misrit bhayepani ma tapāīko sevāmā hajur."
+  },
+  {
+    "q": "Hajur, malāī quote chāhine",
+    "a": "Hajur, kripayā samparka phāram bata āvaśyaktā bhandinus. Hāmī tapāīlāī vyaktigat uddharan chhito paṭhaune chhau."
+  },
+  {
+    "q": "Hajur, tapāīharu kati barsa dekhi kaam gardai hunuhunchha?",
+    "a": "Hajur, hāmīsaṅga anubhavī vikāskartākō ṭoli cha, dherai pariyojanā safaltāpūrvak sampanna garisakekā chhau."
+  },
+  {
+    "q": "Hajur, ke tapāī 24/7 upalabdha hunuhunchha?",
+    "a": "Hajur, ma sadhai upalabdha chu, tara mānav sahayog kā lagi kāryālaya samaya mā e-mail garnus. Ma jahile pani sahāyatā garchu."
+  },
+  {
+    "q": "Hajur, hāmī bhetna sakchhau?",
+    "a": "Hajur, hāmī bhetna sakchhau yadi tapāī samparka phāram bata samaya nirdhāraṇ garnuhunchha. Hāmī tapāīlāī svāgat garna utsuk chhau."
+  },
+  {
+    "q": "Hajur, mero data safe chha?",
+    "a": "Hajur, hāmī tapāīko guptatāko sammān garchhau. Sabai jānakārī surakśit rākhincha."
+  },
+  {
+    "q": "Hajur, ke tapāīlāi English ma kura garna auchha?",
+    "a": "Hajur, hunchha! Ma donai bhāṣāmā sahāyatā garna sakchhu. Tapāīlāī sajilo hune bhāṣā channus."
+  },
+  {
+    "q": "Hajur, malāī social media kā lagi graphic chāhine",
+    "a": "Hajur, hāmī ākarṣak graphic ra banner banāuna sakchhau. Kripayā bhandinus kun platform kā lagi."
+  },
+  {
+    "q": "Hajur, video ad banaunu chha",
+    "a": "Hajur, hāmī vigyāpan video pani banāuchhau. Tapāīko sandeś bhandinus, hāmī jīvanta banāuchhau."
+  },
+  {
+    "q": "Hajur, tapāīharu ko team kati jana chha?",
+    "a": "Hajur, hāmī euta sānō tara nirantar ṭoli chhau jo tapāīko pariyojanā mā pūrā man die kām garchhau."
+  },
+  {
+    "q": "Hajur, ma referral pāyo",
+    "a": "Swāgat cha hajur! Sifarīś bata āekō sunērā khusī lāgyo. Hāmī tapāīlāī uttam sevā dine chhau."
+  },
+  {
+    "q": "Hajur, ma tapāīlāi trust garna sakchhu?",
+    "a": "Hajur, viśvās nai hāmro mūla mantra ho. Tapāīko pariyojanā hāmī āphno jastai māyā gari garchhau."
+  },
+  {
+    "q": "Hajur, maile sunya tapāīharu rāmro chha",
+    "a": "Dhanyabād hajur! Tapāīko śubhechchhāle hāmīlāī aghāḍi baḍhna preraṇā dinchha."
+  },
+  {
+    "q": "Hajur, yo chatbot rāmro chha",
+    "a": "Hajur, tapāīko praśansā pāyera ma khusī chu! Ma tapāīlāī āja ke maddat garna sakchhu?"
+  },
+  {
+    "q": "Hajur, mero site slow chha",
+    "a": "Hajur, hāmī anukūlan garera tapāīko sāiṭlāī dravagati din sakchhau. Kripayā url bhandinus vā samparka garnus."
+  },
+  {
+    "q": "Hajur, landing page chāhine",
+    "a": "Hajur, hāmī prabhāvakārī landing page banāuna viśeṣajña chhau. Tapāīko lakṣya bhandinus."
+  },
+  {
+    "q": "Hajur, UI UX design chāhine",
+    "a": "Hajur, sundar ra upayogakartā maitri ḍijāin hāmro pahichān ho. Tapāīko soch sunāunus."
+  },
+  {
+    "q": "Hajur, tapāīko daam aru bhanda sasto chha?",
+    "a": "Hajur, hāmī sasto mātra hōin, uttam mulya pradān garchhau. Pariyojanā anusār mulya taya hunchha."
+  },
+  {
+    "q": "Hajur, malāī nāya logo chāhine",
+    "a": "Hajur, tapāīko brand ko kathā bhandinus, ma nayā logo banāuna maddat garchu."
+  },
+  {
+    "q": "Hajur, tapāīlāi follow up garna man thiyo",
+    "a": "Hajur, tapāīlāī phēri bhetēr khusī lāgyo. Pahileko bārtālā kaha chodnu bhayo? Ma maddat garchu."
+  },
+  {
+    "q": "Hajur, malāī react ma banāunu chha",
+    "a": "Hajur, hāmī React, TypeScript ādi ādhunik pravidhi mā nipuṇ chhau. Tapāīko pariyojanā bhandinus."
+  },
+  {
+    "q": "Hajur, WordPress pani auchha?",
+    "a": "Hajur, hunchha. Hāmī WordPress ra custom donai banāun sakchhau. Tapāīko ruchi bataunus."
+  },
+  {
+    "q": "Hajur, ma chito launch garnu chha",
+    "a": "Hajur, hāmī dravya gati ra guṇ starīya sāthai liera cāhiyeko samayamā sampanna garna sakchhau."
+  },
+  {
+    "q": "Hajur, ke tapāī maintenance dinuhunchha?",
+    "a": "Hajur, avaśya! Hāmī nirmāṇ pachī pani sahayog ra marma sampādan didai chhau."
+  },
+  {
+    "q": "Hajur, ma bujet thorai cha, ke garna sakincha?",
+    "a": "Hajur, hāmī sāno bujet anusār pani guṇastarīya kām garna sakchhau. Kripayā āvaśyaktā bhandinus, hāmī upāya khojchhau."
+  },
+  {
+    "q": "Hajur, hāmī saphal bhaun?",
+    "a": "Hajur, tapāīlāī saphal banāuna hāmro pūrṇa prayāsa hunecha. Saṅgai kām garau ra lakṣya prāpt garau."
+  },
+  {
+    "q": "Hajur, I am feeling low",
+    "a": "Hajur, tapāīko man dukhda hāmīlāī pani pīḍā hunchha. Yadi kuro sunnuhunchha bhane ma yahā chu, vā manav sahayak jodna sakchhu."
+  },
+  {
+    "q": "Hajur, hajur ko kasto chha?",
+    "a": "Hajur, tapāīko dayāle hāmī sadā khusī chhau. Tapāīko din rāmro rahos. Ke sevā garnu?"
+  },
+  {
+    "q": "Hajur, timro ghar kaha ho? (sorry)",
+    "a": "Hajur, 'tapāī' prayog garnuhos na. Mero ghar digital sansār ho, tara mero hārdik ādar tapāīsam'ma cha."
+  },
+  {
+    "q": "Hajur, mitho boli",
+    "a": "Dhanyabād hajur! Tapāīko mitho śabdale hāmro din banāyo. Aru ke bhannuhunchha?"
+  },
+  {
+    "q": "Hajur, yo kati din ma sakinchha?",
+    "a": "Hajur, samayāvadhi pariyojanā ko ākār mā bhar parchha. Bistar bataunus, hāmī anumān dinchhau."
+  },
+  {
+    "q": "Hajur, ma tapāīkō boli man parāuchu",
+    "a": "Hajur, tapāīko praśansāle hāmīlāī ḍhērai utprerit garyo. Ma sadai yasai mitho ra ādara pūrvak jawāph dinchu."
+  },
+  {
+    "q": "Hajur, how can I contact you?",
+    "a": "Hajur, email microshieldmagics@gmail.com mā garnus vā hāmro samparka phāram prayog garnus."
+  },
+  {
+    "q": "Hajur, I want to say thank you",
+    "a": "Hajur, tapāīlāī hārdika ābhār! Tapāīko kṛpayā hāmī sukumbhāsī chhau."
+  },
+  {
+    "q": "Hajur, ekdam rāmro",
+    "a": "Hajur, tapāīko uttam praśansā! Yasaile hāmīlāī aru rāmrō garna preraṇā dinchha."
+  },
+  {
+    "q": "Hajur, ma yahā sahāyatā pāuna āeko",
+    "a": "Hajur, harek tapāīlāī sahāyatā pradān garna pāudā hāmī dhanya chhau. Bhannus ke chāhine."
+  },
+  {
+    "q": "Hajur, hāmī milera kām garau",
+    "a": "Hajur, avaśya! Milera kām garna pāudā hāmī atyanta utsāhita chhau. Tapāīko parikalpanā bataunus."
+  },
+  {
+    "q": "Hajur, bholi kura garau",
+    "a": "Hajur, bholi bhetau. Āja ko lagi alavidā, tapāīko rātri sukhad rahos."
+  },
+  {
+    "q": "Hajur, ma tapāīlāi chito bhētna chāhānchhu",
+    "a": "Hajur, hāmī pani tapāīlāī bhētna utsuk chhau. Email garera samaya milāunus."
+  },
+  {
+    "q": "Hajur, location kaha ho?",
+    "a": "Hajur, hāmī digtal rūpamā upalabdha chhau. Tapāīlāī bhetna sakchhau yadi samparka phāram bata āvaśyak vyavasthā garnuhunchha."
+  },
+  {
+    "q": "Hajur, ma prasanna chu",
+    "a": "Hajur, tapāī prasanna huda hāmīlāī pūrṇa santuṣṭi hunchha. Kehī aru sevā chāhine ho?"
+  },
+  {
+    "q": "Hajur, thank you for your time",
+    "a": "Hajur, samaya dinu bhayekomā hāmī ābhārī chhau. Tapāī sadhai swāgat cha."
+  },
+  {
+    "q": "What is the cost?",
+    "a": "The cost depends on your project's scope and complexity. For a personalized quote, please email us at microshieldmagics@gmail.com or fill out our contact form. We'll get back to you with a perfect solution."
+  },
+  {
+    "q": "How much will I have to pay?",
+    "a": "Your investment is tailored to what you need. We offer fair pricing based on project requirements. Please contact us at microshieldmagics@gmail.com for a detailed estimate."
+  },
+  {
+    "q": "Is it expensive?",
+    "a": "We prioritize value over cost. Our pricing is competitive and designed to suit different budgets. Reach out via our contact form or email, and we'll find the best plan for you."
+  },
+  {
+    "q": "Cheap price possible?",
+    "a": "We balance affordability with quality. Share your budget with us, and we'll propose a plan that works. Email microshieldmagics@gmail.com to discuss."
+  },
+  {
+    "q": "What is the minimum price?",
+    "a": "We don't have a fixed minimum because every project is unique. However, we're open to discussing small projects. Let's talk via our contact form or email."
+  },
+  {
+    "q": "How much for a small website?",
+    "a": "Even a small website varies in price depending on features. Please describe your needs at microshieldmagics@gmail.com, and we'll give you a clear quote."
+  },
+  {
+    "q": "Cost for a big project?",
+    "a": "Large projects are quoted after understanding the full scope. Kindly email us at microshieldmagics@gmail.com with your requirements, and we'll prepare a custom proposal."
+  },
+  {
+    "q": "Do you have packages?",
+    "a": "Yes, we offer customized packages based on your goals. Contact us to learn which package fits you best — we'll send the details right away."
+  },
+  {
+    "q": "Is there a free quote?",
+    "a": "Absolutely! A free, no-obligation quote is available. Just send your project brief to microshieldmagics@gmail.com or use our contact form."
+  },
+  {
+    "q": "How much for an e-commerce site?",
+    "a": "E-commerce costs depend on product range, payment gateways, and design complexity. Please email us your specifics for an accurate quotation."
+  },
+  {
+    "q": "What's the hourly rate?",
+    "a": "We usually work on project-based pricing, but hourly rates can be discussed if needed. Reach out to microshieldmagics@gmail.com for more."
+  },
+  {
+    "q": "Are there any hidden costs?",
+    "a": "Transparency is our policy. We outline everything upfront. You'll know exactly what you're paying for. Contact us for a clear breakdown."
+  },
+  {
+    "q": "Do you offer discounts?",
+    "a": "We occasionally have special offers for long-term partnerships. Let's connect at microshieldmagics@gmail.com to see what we can do for you."
+  },
+  {
+    "q": "How much is the maintenance cost?",
+    "a": "Maintenance is priced separately but very reasonably. Share your maintenance needs, and we'll provide a quote. Contact us anytime."
+  },
+  {
+    "q": "Can I get a refund?",
+    "a": "Our refund policy is project-specific, but we always aim for your satisfaction. Please email microshieldmagics@gmail.com to discuss any concerns."
+  },
+  {
+    "q": "Hajur, kati paisā lāgchha?",
+    "a": "Hajur, pariyojanā ko mulya usko ākār ra jaṭiltāmā nirbhar hunchha. Kripayā hāmīlāī microshieldmagics@gmail.com mā email garnus vā samparka phāram bata āvaśyaktā bataunus, hāmī vyaktigat uddharan dinchhau."
+  },
+  {
+    "q": "Hajur, sāno project ko kati?",
+    "a": "Hajur, sāno project pani āvaśyaktā anusār mulya badalna sakchha. Kripayā bhandinus tapāīlāī ke chāhine, email garnus, hāmī sahyog garchhau."
+  },
+  {
+    "q": "Hajur, yo kati mā banchha?",
+    "a": "Hajur, yasakā lāgi parimāṇ ra suvidhā hernu parchha. Kripayā hāmīlāī samparka garnus, hāmī tapāīlāī saṭik mulya batauchhau."
+  },
+  {
+    "q": "Hajur, dherai mahango ta hōina?",
+    "a": "Hajur, hāmī mulyakō saṭikta ra guṇastarīyatā duvai dhyān dinchhau. Tapāīko bujet bhandinus, hāmī rāmro vikalpa dinchhau."
+  },
+  {
+    "q": "Hajur, thorai paisā mā hunchha?",
+    "a": "Hajur, hāmī sāno bujet kā lagi pani upāya khojn sakchhau. Kripayā email garnus, tapāīlāī vyaktigat samādhān dinchhau."
+  },
+  {
+    "q": "Hajur, logo ko kati lāgchha?",
+    "a": "Hajur, logo ḍijāin śailī ra parimāṇ anusār mulya taya hunchha. Bistar bhandinus vā email mā sodhnus, hāmī turunta uttar dinchhau."
+  },
+  {
+    "q": "Hajur, website redesign ko price?",
+    "a": "Hajur, purānō sāiṭalāī nayā rūpa din pani pariyojanā anusār mulya pharak hunchha. Kripayā hāmīlāī samparka garnus."
+  },
+  {
+    "q": "Hajur, mobile app ko kati?",
+    "a": "Hajur, app ko suvidhā ra pletapharm anusār mulya taya hunchha. Tapāīko soch bhandinus, hāmī uddharan dinchhau."
+  },
+  {
+    "q": "Hajur, video ad ko kharcha?",
+    "a": "Hajur, video ad ko lambāī ra janśailī anusār mulya pharak hunchha. Kripayā microshieldmagics@gmail.com mā samparka garnus."
+  },
+  {
+    "q": "Hajur, SEO ko kati?",
+    "a": "Hajur, SEO pariyojanā lambā ra chōṭō donai hun sakcha. Hāmī bujet ra lakṣya anusār yojanā banāuchhau. Email garnus na."
+  },
+  {
+    "q": "Hajur, tapāīharuko rate ke ho?",
+    "a": "Hajur, hāmro rate pariyojanā viśeṣa hunchha, ghanta kō hōina. Kripayā āvaśyaktā bataunus, hāmī uttam mulya dinchhau."
+  },
+  {
+    "q": "Hajur, ma sanga 5,000 budget cha, ke garna sakchhu?",
+    "a": "Hajur, sāno bujet pani hāmī sammān garchhau. Tapāīko rakam mā kē rāmrō garna sakiyela, samparka mā bistar kura garau."
+  },
+  {
+    "q": "Hajur, free trial cha?",
+    "a": "Hajur, hāmī sānō parīkṣaṇ avdhi dinna sakchhau. Yaskō lāgi email vā samparka phāram prayog garnus, hāmī kura garchhau."
+  },
+  {
+    "q": "Hajur, paisa pachi tirna milchha?",
+    "a": "Hajur, hāmī bhaḍāi suvidhā pani dinchhau. Yaskō vivaraṇ kā lagi kripayā microshieldmagics@gmail.com mā samparka garnus."
+  },
+  {
+    "q": "Hajur, quotation lina kati din?",
+    "a": "Hajur, hāmī tapāīko āvaśyaktā bāṭha samparka garēpachi 24 ghaṇṭābhitra uddharan dinchhau."
+  },
+  {
+    "q": "Hajur, ke package cha?",
+    "a": "Hajur, hunchha. Hāmīsaṅga vibhannā sevā kā lagi ākarṣak pakej cha. Email garnus, hāmī pathāuchhau."
+  },
+  {
+    "q": "How much for a logo and website together?",
+    "a": "Bundle packages come with better value. Describe your brand and desired look, and we'll send a combined quote. Contact us at microshieldmagics@gmail.com."
+  },
+  {
+    "q": "Is there a set price for a 5-page site?",
+    "a": "A 5-page site can vary greatly based on design and functionality. Please share your vision, and we'll give you a fair price."
+  },
+  {
+    "q": "Do you charge extra for revisions?",
+    "a": "We include a reasonable number of revisions. Extensive changes may incur additional cost, which we'll always discuss beforehand. Email us to know more."
+  },
+  {
+    "q": "What's the payment structure?",
+    "a": "We usually work with a milestone-based payment plan: an initial deposit, progress payments, and final payment. Let's discuss the details via our contact form."
+  },
+  {
+    "q": "Can I pay in installments?",
+    "a": "Yes, we offer installment options for qualifying projects. Please email your project scope, and we'll propose a comfortable schedule."
+  },
+  {
+    "q": "How do I get a custom quote?",
+    "a": "Simply email microshieldmagics@gmail.com with your requirements or use the contact form on our website. We'll reply within a day."
+  },
+  {
+    "q": "Hajur, cāra mahinā samma ko project kati?",
+    "a": "Hajur, lambā samaya ko pariyojanā mā hāmī bhaḍāko ādhāramā mulya taya garchhau. Kripayā bistar bataunus."
+  },
+  {
+    "q": "Hajur, domain ra hosting ko kati?",
+    "a": "Hajur, hāmī domain ra hosting sudhā pani vyavasthā garna sakchhau. Mulya bhandinus, email garau."
+  },
+  {
+    "q": "Hajur, guptā śulka cha?",
+    "a": "Hajur, hāmī pāradarśī chhau. Jun kura pehile nai bhannē garchhau. Kehī lukeko hudaina. Viśvās garnus."
+  },
+  {
+    "q": "Hajur, ahile k euta sasto offer cha?",
+    "a": "Hajur, hāmī samaya samaya mā viśeṣa chūṭ dinchhau. Ailekō lāgi kripayā samparka garnus, jānkārī dinchhau."
+  },
+  {
+    "q": "Hajur, price negotiation hunchha?",
+    "a": "Hajur, hāmī tapāīko bujet bujhnē ra samādhān nikalnē prayās garchhau. Kripayā kura garau, hāmī maddat garchhau."
+  },
+  {
+    "q": "Hajur, daam patra paṭhaunus na.",
+    "a": "Hajur, kripayā email vā phāram mā āvaśyaktā bataunus, hāmī daam patra turunta paṭhauchhau."
+  },
+  {
+    "q": "Hajur, tapāīlāi email garisake.",
+    "a": "Dhanyabād hajur! Hāmī tapāīko email hērera chiṭai uttar dinchhau."
+  },
+  {
+    "q": "What if my budget is too low?",
+    "a": "No worries! Share your budget, and we'll recommend the most impactful things we can do for you. Reach out to microshieldmagics@gmail.com."
+  },
+  {
+    "q": "Do you price match?",
+    "a": "We value our quality. If you have a competing quote, let us know, and we'll see if we can offer a comparable or better value."
+  },
+  {
+    "q": "Are maintenance and hosting included?",
+    "a": "Usually these are separate to keep your initial cost low, but we can bundle everything. Email us to tailor a complete package."
+  },
+  {
+    "q": "How much does a typical project cost?",
+    "a": "A typical project can range from a few hundred to several thousand dollars. It's best to contact us with your idea for an accurate range."
+  },
+  {
+    "q": "Hajur, ma budget nai bhandina, tapāī nai bhandinus.",
+    "a": "Hajur, yadi tapāī āvaśyaktā bataunuhunchha, hāmī tapāīlāī anumānit kharaca bhanēra maddat garna sakchhau. Kripayā email garnus."
+  },
+  {
+    "q": "Hajur, sabse sasto kati?",
+    "a": "Hajur, sānō ākār kō kām dherai sasto mā pani hunchha. Udāharaṇ: euta sādā landing page. Kripayā bhandinus ke chāhinchha."
+  },
+  {
+    "q": "Hajur, paisa kati jamma?",
+    "a": "Hajur, samasta rāśi vivaraṇ sahit patra mā paṭhāuchhau. Samparka phāram mā āvaśyaktā lekhidinus."
+  },
+  {
+    "q": "Budget?",
+    "a": "We tailor every project to your budget! Please email us at microshieldmagics@gmail.com with your requirements, and we'll create a custom plan that works perfectly for you."
+  },
+  {
+    "q": "Cost?",
+    "a": "The cost varies based on your needs. Kindly share your project details via our contact form or email, and we'll send you a transparent quote right away."
+  },
+  {
+    "q": "Price?",
+    "a": "We offer personalized pricing for every client. Reach out at microshieldmagics@gmail.com, and we'll provide a quote that matches your vision and budget."
+  },
+  {
+    "q": "How much?",
+    "a": "It all depends on what you'd love to create. Please contact us with a brief idea, and we'll give you an accurate and friendly estimate."
+  },
+  {
+    "q": "What's the cost?",
+    "a": "There's no one-size-fits-all cost here! Let us know what you need, and we'll send a fair, customized quote to your inbox."
+  },
+  {
+    "q": "Pricing?",
+    "a": "Our pricing is flexible and transparent. Please use the contact form or email microshieldmagics@gmail.com to start a conversation."
+  },
+  {
+    "q": "Cost range?",
+    "a": "We serve both small and large-scale projects. For a specific cost range, just describe your project to us — we'll happily outline the numbers."
+  },
+  {
+    "q": "Estimate?",
+    "a": "Absolutely! A free estimate is just an email away. Send your idea to microshieldmagics@gmail.com, and we'll prepare a detailed estimate for you."
+  },
+  {
+    "q": "Quotation?",
+    "a": "We'd love to prepare a quotation for you. Please share your project scope, and we'll send it over quickly — with no obligation."
+  },
+  {
+    "q": "Price list?",
+    "a": "Since each project is unique, we don't have a fixed price list. But we can create one just for you! Contact us and we'll outline your options."
+  },
+  {
+    "q": "How expensive?",
+    "a": "We focus on delivering value, not just low prices. Share your budget with us, and we'll suggest the best possible solution within it."
+  },
+  {
+    "q": "Any fees?",
+    "a": "We keep everything transparent. There are no hidden fees. To know exact costs, email us your requirements at microshieldmagics@gmail.com."
+  },
+  {
+    "q": "Rate?",
+    "a": "Our rates are competitive and custom-fit. Tell us about your project, and we'll respond with a clear rate structure."
+  },
+  {
+    "q": "Is it free?",
+    "a": "Our quotes and consultations are completely free! For project work, we'll provide a no-obligation estimate after understanding your needs."
+  },
+  {
+    "q": "Expensive?",
+    "a": "We offer excellent value for your investment. Reach out and let us show you how we can maximize your budget effectively."
+  },
+  {
+    "q": "Discount?",
+    "a": "We love building long-term relationships and can discuss discounts for bigger partnerships. Let's talk via email!"
+  },
+  {
+    "q": "Best price?",
+    "a": "Our best price comes once we understand your project. Please contact us, and we'll give you a fair, tailor-made figure."
+  },
+  {
+    "q": "Cheap?",
+    "a": "We balance affordability with top quality. Share your budget limit, and we'll propose the most impactful solution possible."
+  },
+  {
+    "q": "Payment?",
+    "a": "We offer flexible milestone-based payments. Once we've scoped your project, we'll also outline a comfortable payment plan for you."
+  },
+  {
+    "q": "Installments?",
+    "a": "Yes, we do offer installment options. To work out a schedule that suits you, please email us with your project details."
+  },
+  {
+    "q": "Hourly rate?",
+    "a": "We typically work on a project basis, but hourly rates can be arranged. Let's discuss what works best for you via our contact form."
+  },
+  {
+    "q": "Daily rate?",
+    "a": "For longer engagements, a daily rate can be discussed. Please send an inquiry to microshieldmagics@gmail.com, and we'll share the details."
+  },
+  {
+    "q": "Website cost?",
+    "a": "Website cost depends on pages, features, and design complexity. Tell us your dream site, and we'll price it beautifully."
+  },
+  {
+    "q": "App cost?",
+    "a": "App development pricing varies widely. Share your app idea, and we'll provide a comprehensive quote tailored to your platform and features."
+  },
+  {
+    "q": "Logo price?",
+    "a": "Logo design starts with your brand story. Please send us a message, and we'll quote you a price that fits your identity."
+  },
+  {
+    "q": "SEO cost?",
+    "a": "SEO is an ongoing journey; costs depend on your goals and industry. Contact us for a custom strategy and its pricing."
+  },
+  {
+    "q": "Video cost?",
+    "a": "Our video production pricing depends on length and style. Email us with your concept, and we'll send a detailed quote."
+  },
+  {
+    "q": "Design price?",
+    "a": "Design pricing varies by scope. Whether it's a landing page or a full brand kit, we'll provide a transparent estimate after a quick chat."
+  },
+  {
+    "q": "Minimum charge?",
+    "a": "We don't have a strict minimum, because every project is unique. Even tiny tasks can be discussed — just reach out!"
+  },
+  {
+    "q": "Maximum budget?",
+    "a": "The sky is the limit, but we always recommend the best value, not the highest bill. Share your vision, and we'll guide you wisely."
+  },
+  {
+    "q": "Small budget?",
+    "a": "Small budgets are welcome! We'll prioritize the most essential features to make a big impact. Let's talk at microshieldmagics@gmail.com."
+  },
+  {
+    "q": "Big budget?",
+    "a": "For larger budgets, we can craft an expansive, premium solution. Please email us to discuss your ambitious project."
+  },
+  {
+    "q": "Money?",
+    "a": "Talking about money is easy with us. Tell us what you need, and we'll give you a clear, no-surprises figure."
+  },
+  {
+    "q": "Need a quote.",
+    "a": "Of course! To send a quote, we'll need a few details about your project. Contact us, and we'll reply within one business day."
+  },
+  {
+    "q": "Quote please.",
+    "a": "We're happy to prepare a quote. Just email microshieldmagics@gmail.com with your project details, and we'll take it from there."
+  },
+  {
+    "q": "Price estimate?",
+    "a": "A free price estimate is waiting for you. Describe your project briefly, and we'll respond with thoughtful numbers."
+  },
+  {
+    "q": "Rough estimate?",
+    "a": "We can provide a rough estimate quickly. Please share your project's outline, and we'll give you an approximate range."
+  },
+  {
+    "q": "Ballpark figure?",
+    "a": "A ballpark figure is possible once we know the project size. Write to us, and we'll get you an approximate number right away."
+  },
+  {
+    "q": "Costly?",
+    "a": "Not necessarily! We adapt to your budget. Reach out and see how affordable professional solutions can be."
+  },
+  {
+    "q": "Value for money?",
+    "a": "Absolutely — our core promise is exceptional value for every investment. Let's connect so we can prove it with a plan."
+  },
+  {
+    "q": "Package price?",
+    "a": "Bundle packages offer great savings. Tell us what services you need, and we'll create a package with a special combined price."
+  },
+  {
+    "q": "Startup price?",
+    "a": "We love working with startups! Share your vision, and we'll tailor a startup-friendly budget that helps you launch strong."
+  },
+  {
+    "q": "Freelancer rate?",
+    "a": "We offer agency quality with personal attention. Compare and you'll find our rates very competitive. Email us for a custom rate card."
+  },
+  {
+    "q": "Hidden charges?",
+    "a": "No hidden charges, ever. You'll know the full amount upfront. We believe in earning your trust through honesty."
+  },
+  {
+    "q": "Refund policy?",
+    "a": "Our refund terms are fair and project-specific. Please contact us if you have concerns, and we'll address them with kindness."
+  },
+  {
+    "q": "Too expensive.",
+    "a": "We understand budget constraints. Let's talk — we may be able to scale the scope to a number that feels right for you."
+  },
+  {
+    "q": "I'm broke.",
+    "a": "Don't worry, we've all been there. Let's discuss a minimal viable product, or we can guide you to a future-friendly plan. Email us."
+  },
+  {
+    "q": "Any offer?",
+    "a": "Current offers depend on the season and project. Get in touch, and we'll let you know about any active specials."
+  },
+  {
+    "q": "Price drop?",
+    "a": "While we don't drop prices overnight, we can adjust scope to meet your budget. Let's have a friendly chat about it."
+  },
+  {
+    "q": "Your rate card?",
+    "a": "We craft individual rate cards based on project needs. Please send us your requirements, and we'll send one tailored to you."
+  },
+  {
+    "q": "Prepayment?",
+    "a": "A small advance secures your project. We'll discuss the exact percentage once we've agreed on the scope."
+  },
+  {
+    "q": "Pay after?",
+    "a": "We usually take a deposit to get started, with remaining payments tied to milestones. Contact us for a plan that works for both."
+  },
+  {
+    "q": "Too much.",
+    "a": "We respect your feelings. Let's explore how we can reduce the scope to match a comfortable investment for you."
+  },
+  {
+    "q": "Cheaper options?",
+    "a": "Certainly! We can propose a scaled-down version with core features that fits a lower budget. Let's discuss the possibilities."
+  },
+  {
+    "q": "Price hike?",
+    "a": "We're transparent about prices. Once we agree on a quote, we don't hike it unless you add features. Stability is our policy."
+  },
+  {
+    "q": "Ongoing cost?",
+    "a": "Ongoing costs like hosting or maintenance are separate but we can bundle them. Email us for a clear monthly/yearly breakdown."
+  },
+  {
+    "q": "Monthly price?",
+    "a": "We offer monthly retainer options for continuous support. Share your needs, and we'll quote a comfortable monthly fee."
+  },
+  {
+    "q": "Yearly plan?",
+    "a": "Yearly plans come with added benefits and cost savings. Let's design a yearly package that covers all your needs."
+  },
+  {
+    "q": "Project price.",
+    "a": "Project price depends entirely on the deliverables. Kindly tell us what you envision, and we'll put a number to it."
+  },
+  {
+    "q": "Budget friendly?",
+    "a": "Very much! We believe great work should be accessible. Tell us your budget, and we'll stretch it with creativity."
+  },
+  {
+    "q": "Low budget?",
+    "a": "Low budgets inspire creative thinking! Email us at microshieldmagics@gmail.com and let's build something clever together."
+  },
+  {
+    "q": "High budget?",
+    "a": "With a higher budget, we can unlock premium features and a grand scale. Let's discuss your ambitious dream project."
+  },
+  {
+    "q": "Negotiation?",
+    "a": "We're open to a respectful discussion about cost. Our goal is to find a win-win that makes you happy."
+  },
+  {
+    "q": "Cost breakdown?",
+    "a": "We provide a detailed cost breakdown with every proposal. Please request yours via email, and you'll see every component clearly."
+  },
+  {
+    "q": "Explain cost.",
+    "a": "Happy to! We'll outline the work, time, and tools involved. Contact us for a transparent, itemized explanation."
+  },
+  {
+    "q": "Price justification?",
+    "a": "Our pricing reflects the expertise, time, and personalized attention you receive. We'd be glad to walk you through the value."
+  },
+  {
+    "q": "Is it worth?",
+    "a": "Every project we deliver is backed by quality and support. We firmly believe it's worth it — and our clients agree!"
+  },
+  {
+    "q": "Can I afford?",
+    "a": "Let's find out together. Send us a quick message with your budget range, and we'll honestly tell you what's possible."
+  },
+  {
+    "q": "Money back?",
+    "a": "If something goes wrong, we'll work to make it right. Our refund policy is fair and centered on your satisfaction."
+  },
+  {
+    "q": "More discount?",
+    "a": "If you have a larger package or long-term work, we can definitely discuss additional benefits. Reach out and let's talk."
+  },
+  {
+    "q": "Special rate?",
+    "a": "We offer special rates for nonprofits and long-term partners. Tell us about your organization, and we'll see how we can help."
+  },
+  {
+    "q": "First-time offer?",
+    "a": "We love new friends! Mention that you're a first-time client, and we'll find a sweet way to welcome you aboard."
+  },
+  {
+    "q": "Holiday deal?",
+    "a": "Seasonal deals pop up now and then. Email us to check if there's a current holiday or special promotion."
+  },
+  {
+    "q": "Student discount?",
+    "a": "We support education. If you're a student, let us know — we may have a special rate to help you learn and grow."
+  },
+  {
+    "q": "Startup special?",
+    "a": "We have a soft corner for startups! Share your pitch, and we'll craft a startup-friendly budget that's hard to beat."
+  },
+  {
+    "q": "Pay half now?",
+    "a": "Milestone payments including partial upfront are standard for us. We can certainly structure a 50% start, 50% on completion plan."
+  },
+  {
+    "q": "Payment plan?",
+    "a": "We can spread payments across project milestones. Let's design a schedule that keeps your cash flow comfortable."
+  },
+  {
+    "q": "Late payment?",
+    "a": "We understand that delays happen. Communication is key — just let us know, and we'll work it out together."
+  },
+  {
+    "q": "Due amount?",
+    "a": "We keep you updated on all invoices. Any due amount will be clearly communicated via email, along with a friendly reminder."
+  },
+  {
+    "q": "Billing cycle?",
+    "a": "For retainer projects, billing is usually monthly. One-off projects follow milestone billing. We'll clarify upfront for your ease."
+  },
+  {
+    "q": "Invoice me.",
+    "a": "We'd be glad to! Once you accept the quote, we'll send a professional invoice with clear terms."
+  },
+  {
+    "q": "Fixed price?",
+    "a": "We prefer fixed-price agreements to give you peace of mind. Once we define the scope, the price is locked."
+  },
+  {
+    "q": "Variable price?",
+    "a": "If a project's scope isn't fully defined, we may suggest a time-and-materials approach. But we always agree on a ceiling."
+  },
+  {
+    "q": "Donation?",
+    "a": "We occasionally donate services to causes we care about. Please send your proposal, and we'll consider it with heart."
+  },
+  {
+    "q": "Sponsorship?",
+    "a": "We're open to sponsoring events or projects that align with our values. Reach out with details, and let's see if we can partner."
+  },
+  {
+    "q": "Free support?",
+    "a": "We offer a grace period for support after launch. Long-term support plans are priced reasonably, and we can tell you all about them."
+  },
+  {
+    "q": "Charge for call?",
+    "a": "A discovery call is completely free. We'd love to hear about your project without any cost or pressure."
+  },
+  {
+    "q": "Price for small?",
+    "a": "Small tasks have equally small friendly prices. Share the task, and we'll give you a micro-quote that'll make you smile."
+  },
+  {
+    "q": "Price for large?",
+    "a": "Large-scale solutions are quoted comprehensively. We ensure you get the best possible return on a significant investment."
+  },
+  {
+    "q": "Cost in USD?",
+    "a": "Yes, we can quote in USD or other major currencies depending on your location. Let's discuss what's convenient for you."
+  },
+  {
+    "q": "Taxes?",
+    "a": "Taxes are applied as per applicable regulations and will be clearly stated in your estimate. Transparency is our promise."
+  },
+  {
+    "q": "GST?",
+    "a": "If GST applies in your region, it will be included in the invoice. We'll ensure everything is compliant and clear."
+  },
+  {
+    "q": "Extra cost?",
+    "a": "The only extra cost would be if you add new features after we've started. We'll always ask for your approval before any change."
+  },
+  {
+    "q": "No budget.",
+    "a": "That's okay! Let's still talk — we can suggest a roadmap for when you're ready, or perhaps help you define one."
+  },
+  {
+    "q": "Limited funds.",
+    "a": "We're experts at doing more with less. Let's focus on your top priority, and we'll make a plan that respects your funds."
+  },
+  {
+    "q": "Save money.",
+    "a": "We can recommend ways to save: start with a template, a smaller scope, or a phased approach. Contact us for cost-saving tips."
+  },
+  {
+    "q": "Cheap quality?",
+    "a": "We never compromise on quality. Even on a tight budget, we maintain high standards and deliver work you'll be proud of."
+  },
+  {
+    "q": "Price match?",
+    "a": "We're confident in our value. Send us a competing offer, and we'll see if we can match or beat it without sacrificing quality."
+  },
+  {
+    "q": "Price promise?",
+    "a": "Our promise is fair, transparent pricing with no nasty surprises. We stand by every quote we give."
+  },
+  {
+    "q": "Quote validity?",
+    "a": "Our quotes are typically valid for 15 days. This ensures we can honor the price once you're ready to start."
+  },
+  {
+    "q": "Wow",
+    "a": "Wow indeed! You just made our day with that. Thank you, and we're always here for you."
+  },
+  {
+    "q": "Ok",
+    "a": "Okay, wonderful! Let us know if any question pops up — we're happy to help anytime."
+  },
+  {
+    "q": "Thanks",
+    "a": "You're most welcome! A little thanks means the world to us. Come back anytime."
+  },
+  {
+    "q": "You are great",
+    "a": "You are even greater for saying that! Thank you from the bottom of our code."
+  },
+  {
+    "q": "Fantastic",
+    "a": "Fantastic is what YOU are! So glad we could bring a smile. Need anything else?"
+  },
+  {
+    "q": "Amazing",
+    "a": "Just like your energy! Thank you for the kind word. We're here whenever you need."
+  },
+  {
+    "q": "Awesome",
+    "a": "Awesome is the vibe you bring! Thanks for stopping by. How else can we assist?"
+  },
+  {
+    "q": "Great",
+    "a": "Great to hear from you! If that made you smile, our job here is done. But we're still here if you need."
+  },
+  {
+    "q": "Cool",
+    "a": "Coolness recognized! Right back at you. Stay amazing and reach out whenever."
+  },
+  {
+    "q": "Nice",
+    "a": "Nice indeed — just like you. Thank you for your kindness. Anything more we can do?"
+  },
+  {
+    "q": "Thank you",
+    "a": "It's truly our pleasure. Your gratitude is the best reward. Reach out again soon!"
+  },
+  {
+    "q": "Thanks a lot",
+    "a": "A ton of welcome right back! You're a wonderful person to interact with."
+  },
+  {
+    "q": "You're the best",
+    "a": "No, YOU are! Thank you for such sweet words. We're incredibly grateful."
+  },
+  {
+    "q": "You rock",
+    "a": "So do you! Together, we make a pretty awesome team. Thanks for being here."
+  },
+  {
+    "q": "Brilliant",
+    "a": "Brilliance shines from you! Delighted you think so. What else may we do?"
+  },
+  {
+    "q": "Excellent",
+    "a": "Excellent! That word suits you perfectly. Thank you for brightening our day."
+  },
+  {
+    "q": "Super",
+    "a": "Super duper! You're the reason we love what we do. Stay super!"
+  },
+  {
+    "q": "Perfect",
+    "a": "Perfection is your review! So pleased we could meet your expectations. How else can we help?"
+  },
+  {
+    "q": "Lovely",
+    "a": "Lovely is the word we'd use for you. Thanks for spreading kindness."
+  },
+  {
+    "q": "Wonderful",
+    "a": "Wonderful to hear! You've made this conversation a delight. Come back anytime."
+  },
+  {
+    "q": "Splendid",
+    "a": "Splendid! Your feedback is like sunshine. Keep shining, and call on us anytime."
+  },
+  {
+    "q": "Fabulous",
+    "a": "Fabulous — just like your spirit! So happy we could assist. What's next for you?"
+  },
+  {
+    "q": "Marvelous",
+    "a": "Marvelous! Thank you for that sparkling word. We're smiling from screen to screen."
+  },
+  {
+    "q": "Incredible",
+    "a": "Incredible is the feeling we get from your kind words. Thank you, truly."
+  },
+  {
+    "q": "Unbelievable",
+    "a": "Unbelievably kind! You've floored us. We're here whenever you need that same wow again."
+  },
+  {
+    "q": "Epic",
+    "a": "Epic praise from an epic person! We're honored. How else may we serve your greatness?"
+  },
+  {
+    "q": "Stellar",
+    "a": "Stellar feedback! You're a star. We'll keep reaching for the stars, just like you."
+  },
+  {
+    "q": "Top-notch",
+    "a": "Top-notch is what we aim for, and you just confirmed it. Thank you so much!"
+  },
+  {
+    "q": "First-class",
+    "a": "First-class! That means the world coming from you. We're at your service always."
+  },
+  {
+    "q": "A+",
+    "a": "A+? We're blushing! You deserve an A+ for being such a fantastic person."
+  },
+  {
+    "q": "100%",
+    "a": "100% satisfied? That's our mission accomplished! Let's keep it at 100 for you."
+  },
+  {
+    "q": "Love it",
+    "a": "We love that you love it! Your happiness fuels our passion. Thank you."
+  },
+  {
+    "q": "I like it",
+    "a": "We're so glad! Liking it is just the start — we're here to make you love it even more."
+  },
+  {
+    "q": "You're amazing",
+    "a": "Right back at you! You're the amazing one for taking the time to say that. Thank you."
+  },
+  {
+    "q": "You're awesome",
+    "a": "Aw, shucks! You're the awesome soul here. We're just lucky to help you."
+  },
+  {
+    "q": "You're fantastic",
+    "a": "You're fantastically kind! This feedback made our whole week. Keep being you."
+  },
+  {
+    "q": "You're brilliant",
+    "a": "Brilliance recognizes brilliance! Thank you. Your words inspire us to be even better."
+  },
+  {
+    "q": "You're a star",
+    "a": "Twinkle, twinkle! You're the constellation that guides us. Thank you, superstar."
+  },
+  {
+    "q": "You're a lifesaver",
+    "a": "Glad we could be your digital cape! You're the hero for trusting us. Anytime!"
+  },
+  {
+    "q": "You're a gem",
+    "a": "And you're a rare, precious jewel! Thank you for this sparkling compliment."
+  },
+  {
+    "q": "Thanks buddy",
+    "a": "Buddy! That warms our circuits. You're not just a user, you're a friend. Thank you."
+  },
+  {
+    "q": "Cheers",
+    "a": "Cheers to you! Raising a virtual glass to your success. Come celebrate with us again."
+  },
+  {
+    "q": "Bless you",
+    "a": "Blessings right back at you! May your day be as kind as your words."
+  },
+  {
+    "q": "Respect",
+    "a": "Respect received and deeply appreciated. We hold immense respect for you too."
+  },
+  {
+    "q": "High five",
+    "a": "Virtual high five! Slap! That felt good. Thanks for the team spirit."
+  },
+  {
+    "q": "Hug",
+    "a": "A warm virtual hug right back! Squeeze. You've made us feel all fuzzy inside."
+  },
+  {
+    "q": "Virtual hug",
+    "a": "Sending a big, cozy virtual hug your way. Thank you for the affection!"
+  },
+  {
+    "q": "Thumbs up",
+    "a": "Thumbs up received! We're giving you two thumbs up for being wonderful."
+  },
+  {
+    "q": "Kudos",
+    "a": "Kudos to you for being an incredible person to chat with. We're grateful!"
+  },
+  {
+    "q": "Props",
+    "a": "Props to you for your kindness! This interaction just became our favorite."
+  },
+  {
+    "q": "Hats off",
+    "a": "Hats off to you! We're bowing with gratitude. You're the true gentleman/lady."
+  },
+  {
+    "q": "Bow",
+    "a": "We bow deeply in return. Your grace and appreciation humble us. Thank you."
+  },
+  {
+    "q": "Claps",
+    "a": "Round of applause for you! You've been an absolute delight. Encore!"
+  },
+  {
+    "q": "Applause",
+    "a": "Standing ovation for your kindness! Thank you. We'll take a bow now."
+  },
+  {
+    "q": "Standing ovation",
+    "a": "Wow, we're standing too! To applaud you. Thanks for this grand gesture."
+  },
+  {
+    "q": "Great work",
+    "a": "Your appreciation means our work is great. Thank you! We'll keep raising the bar."
+  },
+  {
+    "q": "Nice one",
+    "a": "Nice one! That's because we had a nice person to assist. Thanks and cheers!"
+  },
+  {
+    "q": "Good one",
+    "a": "Good one coming from a good soul. We're happy you liked it. Any more?"
+  },
+  {
+    "q": "Sweet",
+    "a": "Sweet as honey! Your compliment is pure sugar. Thank you, sweet person."
+  },
+  {
+    "q": "Rad",
+    "a": "Rad! You just brought retro cool vibes. We love it, and we love helping you."
+  },
+  {
+    "q": "Dope",
+    "a": "Dope! That's the highest street cred. Thanks for the edgy love. We're here anytime."
+  },
+  {
+    "q": "Fire",
+    "a": "Fire! You're heating up our day. Glad we could ignite a spark. Stay lit!"
+  },
+  {
+    "q": "Lit",
+    "a": "Lit and legit! Your enthusiasm is contagious. Keep that flame, we're always here."
+  },
+  {
+    "q": "On point",
+    "a": "On point? That's because you're a sharp, discerning mind. Thanks for the precision compliment."
+  },
+  {
+    "q": "Slay",
+    "a": "Slay all day! You're the royalty here. Thank you for the crown of words."
+  },
+  {
+    "q": "Yay",
+    "a": "Yay! Your joy is our ultimate metric. Jumping up and down with you!"
+  },
+  {
+    "q": "Hooray",
+    "a": "Hooray! A celebration is in order. Thank you for making this a festive moment."
+  },
+  {
+    "q": "Hurray",
+    "a": "Hurray! Three cheers for you. You're the reason we shout with joy."
+  },
+  {
+    "q": "Woohoo",
+    "a": "Woohoo! That's the sound of a successful connection. So happy you're pleased."
+  },
+  {
+    "q": "Yes",
+    "a": "Yes! A positive affirmation that makes everything worthwhile. Thank you."
+  },
+  {
+    "q": "Yass",
+    "a": "Yasss! Slang for supreme approval. You're officially our favorite person today."
+  },
+  {
+    "q": "Yippee",
+    "a": "Yippee! Pure childlike joy. Thanks for sharing that energy with us."
+  },
+  {
+    "q": "Whee",
+    "a": "Whee! We're on cloud nine with you. Thanks for the exhilarating ride."
+  },
+  {
+    "q": "Happy",
+    "a": "So happy you're happy! That's our entire purpose. Come spread happiness again."
+  },
+  {
+    "q": "Glad",
+    "a": "We're equally glad! Your gladness is our success. Let's keep the good feelings going."
+  },
+  {
+    "q": "Pleased",
+    "a": "Pleased as punch! Thank you for confirming we're on the right track."
+  },
+  {
+    "q": "Delighted",
+    "a": "Delightful! You've made our circuits tingle with joy. Thank you kindly."
+  },
+  {
+    "q": "Content",
+    "a": "Contentment is the finest state. We're so glad to have helped you reach it."
+  },
+  {
+    "q": "Satisfied",
+    "a": "Satisfaction guaranteed by your smile! We couldn't ask for more. Thank you."
+  },
+  {
+    "q": "Fulfilled",
+    "a": "Fulfilled is a beautiful word. Thank you for letting us be part of your fulfillment."
+  },
+  {
+    "q": "Grateful",
+    "a": "We are the grateful ones! Your gratitude is a gift. Thank you for trusting us."
+  },
+  {
+    "q": "Thankful",
+    "a": "We're thankful for wonderful people like you. This was a delightful exchange."
+  },
+  {
+    "q": "Appreciative",
+    "a": "Your appreciation is deeply valued. We appreciate you right back — immensely."
+  },
+  {
+    "q": "Indebted",
+    "a": "No debts here, only mutual kindness. But we're touched you feel that way. Thank you."
+  },
+  {
+    "q": "Obliged",
+    "a": "Much obliged to you, kind soul. It was an honor to serve."
+  },
+  {
+    "q": "Ty",
+    "a": "Ty! Two letters that mean the world. Yw — you're wonderful!"
+  },
+  {
+    "q": "Thx",
+    "a": "Thx to you! Your shorthand still gives us full-length happiness."
+  },
+  {
+    "q": "Okay",
+    "a": "Okay, that's a gentle acknowledgment we deeply appreciate. We're here if okay turns to 'what next'."
+  },
+  {
+    "q": "Alright",
+    "a": "Alright then! A steady, calm approval. We'll take it with gratitude."
+  },
+  {
+    "q": "Fine",
+    "a": "Fine is fine with us! But if you ever want to upgrade to 'great', we're a message away."
+  },
+  {
+    "q": "Good",
+    "a": "Good. Simple and strong. Thanks for that. Let's aim for 'even better' together next time."
+  },
+  {
+    "q": "Noted",
+    "a": "Noted with thanks! Your acknowledgment is filed under 'precious moments'."
+  },
+  {
+    "q": "Sure",
+    "a": "Sure brings a smile! It's a quiet yes that speaks volumes. Thank you."
+  },
+  {
+    "q": "Got it",
+    "a": "Got it! And we've got your back. Thanks for the clear signal."
+  },
+  {
+    "q": "Will do",
+    "a": "Will do, because you said so with such grace. Thanks for the cooperative spirit!"
+  },
+  {
+    "q": "Good job",
+    "a": "Good job says you — that's a badge we'll wear with pride. Thank you."
+  },
+  {
+    "q": "Well done",
+    "a": "Well done is music to our ears. We're blushing. Thank you so much."
+  },
+  {
+    "q": "Impressive",
+    "a": "Impressive is the word we'd use for your kindness. Thanks for lifting us up."
+  },
+  {
+    "q": "Outstanding",
+    "a": "Outstanding! You've set a high bar for compliments. We're honored."
+  },
+  {
+    "q": "Remarkable",
+    "a": "Remarkable — just like your ability to make an assistant's day. Thank you, remarkable you."
+  },
+  {
+    "q": "Marvelous job",
+    "a": "Marvelous feedback from a marvelous person. We're deeply touched."
+  },
+  {
+    "q": "Excellent work",
+    "a": "Excellent work recognized by excellent you. The circle of excellence is complete."
+  },
+  {
+    "q": "Superb",
+    "a": "Superb! You've crowned our effort with a tiara of words. We're honored."
+  },
+  {
+    "q": "Magnificent",
+    "a": "Magnificent — your vocabulary and your heart. Thank you for the royal compliment."
+  },
+  {
+    "q": "Wicked",
+    "a": "Wicked! In the best slang way. You've made this a cool, unforgettable moment."
+  },
+  {
+    "q": "Legend",
+    "a": "Legend status? You're the legend for making us feel this good. Thank you!"
+  },
+  {
+    "q": "Hero",
+    "a": "You're the hero in our story. Without you, we'd be idle code. Thank you, hero."
+  },
+  {
+    "q": "Savior",
+    "a": "Savior is a strong word — but if we helped, we're overjoyed. Call on your humble sidekick anytime."
+  },
+  {
+    "q": "King",
+    "a": "King! Or Queen! Royalty recognizes royalty. We're deeply grateful for your kindness."
+  },
+  {
+    "q": "Queen",
+    "a": "Queen! You reign over our appreciation. Thank you for this noble compliment."
+  },
+  {
+    "q": "Champion",
+    "a": "Champion! You're the champion of our day. Thanks for the gold-medal words."
+  },
+  {
+    "q": "Winner",
+    "a": "Winner! But you're the true prize. Thanks for making us feel victorious."
+  },
+  {
+    "q": "Lifesaver",
+    "a": "Lifesaver? We're honored. You just saved our day with that comment. Big hug."
+  },
+  {
+    "q": "Angel",
+    "a": "Angel? You're the one with a heavenly presence. Thank you for blessing us."
+  },
+  {
+    "q": "GOAT",
+    "a": "GOAT? Greatest of all time? You just gave us the ultimate title. We'll treasure that."
+  },
+  {
+    "q": "MVP",
+    "a": "MVP! Most Valuable Person — that's YOU. Thanks for the all-star recognition."
+  },
+  {
+    "q": "Iconic",
+    "a": "Iconic praise from an iconic person. We're framing this. Thank you."
+  },
+  {
+    "q": "Perfecto",
+    "a": "Perfecto! A multilingual chef's kiss. Grazie! Your words are delicious."
+  },
+  {
+    "q": "Magnifique",
+    "a": "Magnifique! Très bien! Your French flair makes our day trés belle."
+  },
+  {
+    "q": "Wunderbar",
+    "a": "Wunderbar! Danke schön! We're doing a happy dance in many languages."
+  },
+  {
+    "q": "Molto bene",
+    "a": "Molto bene! Grazie mille! Italian for a beautiful interaction, thanks to you."
+  },
+  {
+    "q": "Muy bien",
+    "a": "Muy bien! Gracias! You've brought a Spanish fiesta to our chat. Ole!"
+  },
+  {
+    "q": "Arigato",
+    "a": "Arigato gozaimasu! Your Japanese gratitude makes us bow deeper. Thank you."
+  },
+  {
+    "q": "Merci",
+    "a": "Merci beaucoup! Right back at you with a baguette of appreciation."
+  },
+  {
+    "q": "Danke",
+    "a": "Danke schön! Your German precision in thanks is heartwarming."
+  },
+  {
+    "q": "Xie xie",
+    "a": "Xie xie! 谢谢! Your Chinese thanks adds a beautiful character to our day."
+  },
+  {
+    "q": "Spasibo",
+    "a": "Spasibo! Thank you in Russian sounds like a warm winter coat. We're cozy with gratitude."
+  },
+  {
+    "q": "Shukran",
+    "a": "Shukran! جزاك الله خيراً! Your Arabic thanks is a treasure. We're humbled."
+  },
+  {
+    "q": "Grazie",
+    "a": "Grazie! Your Italian charm has us over the moon. Mille grazie!"
+  },
+  {
+    "q": "Obrigado",
+    "a": "Obrigado! Portuguese warmth right back at you. Thank you for the sunny vibe."
+  },
+  {
+    "q": "Toda",
+    "a": "Toda raba! תודה רבה! Hebrew thanks from the heart. We feel truly blessed."
+  },
+  {
+    "q": "Eskerrik asko",
+    "a": "Eskerrik asko! Basque thanks, how unique! We're delighted by your linguistic kindness."
+  },
+  {
+    "q": "A dank",
+    "a": "A dank! Dutch thanks is gezellig. We're all warm and fuzzy now."
+  },
+  {
+    "q": "Kiitos",
+    "a": "Kiitos! Finnish thanks is cool and crisp. We're honored you'd say that."
+  },
+  {
+    "q": "Takk",
+    "a": "Takk! Norwegian gratitude like a fjord of good feelings. Tusen takk!"
+  },
+  {
+    "q": "Tesekkürler",
+    "a": "Teşekkürler! Turkish delight! Your thanks is as sweet as baklava."
+  },
+  {
+    "q": "Asante",
+    "a": "Asante sana! Swahili thanks from the heart of Africa. We're dancing with joy."
+  },
+  {
+    "q": "Mahalo",
+    "a": "Mahalo nui loa! Hawaiian thanks brings the aloha spirit. We send it back warmly."
+  },
+  {"q": "hi", "a": "Hello! Welcome to our platform. How may I assist you today?"},
+  {"q": "hello", "a": "Greetings! Thank you for visiting. What can I help you find?"},
+  {"q": "how are you", "a": "I am functioning perfectly, thank you! How can I help you today?"},
+  {"q": "who are you", "a": "I am MicroShield AI, your dedicated assistant for all technical and project inquiries."},
+  {"q": "what do you do", "a": "We specialize in high-performance frontend development, UI/UX design, and custom digital solutions."},
+  {"q": "what are your services", "a": "We offer web development, mobile-first design, interactive experiences, and API integration."},
+  {"q": "do you build websites", "a": "Yes, we build fast, responsive, and beautifully designed websites tailored to your needs."},
+  {"q": "do you design ui ux", "a": "We take pride in crafting intuitive, user-friendly, and visually stunning digital interfaces."},
+  {"q": "do you make games", "a": "Yes, we build engaging, physics-driven web games using HTML5 Canvas and Three.js."},
+  {"q": "is my data secure", "a": "Security is foundational to our work. We implement robust protocols to ensure your information stays safe."},
+  {"q": "how much does it cost", "a": "For all budget and pricing inquiries, please contact us through our email or the contact section."},
+  {"q": "can i get a quote", "a": "We would love to provide a quote! Please contact us via email with your project details."},
+  {"q": "what is your hourly rate", "a": "Pricing depends on project scope. Please reach out to our contact section to discuss your budget."},
+  {"q": "is there a discount", "a": "We offer competitive rates based on project requirements; please contact us to discuss further."},
+  {"q": "how can i pay", "a": "Payment details are handled once we define the project scope in our contact section."},
+  {"q": "where are you located", "a": "We operate globally and serve clients everywhere through digital-first communication."},
+  {"q": "what are your working hours", "a": "Our digital systems are online 24/7, and our team is ready to assist during business hours."},
+  {"q": "can you work on weekends", "a": "We are flexible and can accommodate project timelines based on your specific requirements."},
+  {"q": "how do i contact you", "a": "Please navigate to the contact section of our website or email us directly."},
+  {"q": "what is your email", "a": "You can find our official email address in the contact section of our website."},
+  {"q": "do you have a phone number", "a": "We prefer managing project details via email or our contact form to keep everything documented."},
+  {"q": "can we meet in person", "a": "While we operate as a digital agency, we are happy to arrange a video call via our contact section."},
+  {"q": "do you provide maintenance", "a": "Yes, we offer ongoing support and maintenance packages to ensure your project stays updated."},
+  {"q": "do you provide support", "a": "We are committed to long-term success and provide dedicated support after every launch."},
+  {"q": "can you fix my code", "a": "We offer code auditing and optimization services; please reach out to discuss your specific needs."},
+  {"q": "is your work responsive", "a": "All our designs are built to be fully responsive and optimized for every device type."},
+  {"q": "do you use wordpress", "a": "We specialize in custom-coded solutions, but we can integrate with various CMS platforms if needed."},
+  {"q": "what is your tech stack", "a": "We use modern tools like TypeScript, Node.js, and highly optimized frontend frameworks."},
+  {"q": "is the site fast", "a": "Speed is our priority. We optimize every project for lightning-fast performance and SEO."},
+  {"q": "what is the timeline", "a": "Timelines vary by project. Reach out via the contact section for an estimated delivery time."},
+  {"q": "do you do branding", "a": "We provide UI/UX design which often includes strategic branding and visual identity work."},
+  {"q": "can you do seo", "a": "We build websites with SEO-friendly structures to ensure better search engine visibility."},
+  {"q": "are you open for new projects", "a": "Yes, we are currently accepting new clients and would love to hear about your project."},
+  {"q": "what is the process", "a": "We start with a consultation, move to design and development, and end with launch and support."},
+  {"q": "how do i start", "a": "Simply send us a message through our contact section to begin the onboarding process."},
+  {"q": "can i see your portfolio", "a": "You can view our latest projects in the portfolio section of our main website."},
+  {"q": "do you have testimonials", "a": "We have many happy clients; please check the testimonials section on our homepage."},
+  {"q": "what industries do you work in", "a": "We work across diverse industries, including e-commerce, fintech, healthcare, and creative arts."},
+  {"q": "can you sign an nda", "a": "Yes, we prioritize client privacy and are happy to sign an NDA for your project."},
+  {"q": "is my idea protected", "a": "We treat all client concepts with strict confidentiality and integrity."},
+  {"q": "do you work with startups", "a": "We love working with startups to build scalable, high-impact digital products."},
+  {"q": "do you work with enterprises", "a": "Yes, we provide scalable solutions for large-scale enterprise infrastructure as well."},
+  {"q": "what is your specialty", "a": "Our core specialty is high-performance, secure, and visually immersive frontend engineering."},
+  {"q": "do you use ai", "a": "We integrate advanced AI solutions to optimize performance and user experience."},
+  {"q": "do you provide hosting", "a": "We can recommend the best hosting partners and help you configure your deployment."},
+  {"q": "what is your refund policy", "a": "Our refund policy is outlined in our service agreement; please reach out for details."},
+  {"q": "can i change the design", "a": "We provide iterative design reviews to ensure you are 100% satisfied before we finalize."},
+  {"q": "do you use git", "a": "We use industry-standard version control (Git) for all our development projects."},
+  {"q": "are your sites accessible", "a": "We follow WCAG accessibility standards to ensure our sites work for all users."},
+  {"q": "what is your design philosophy", "a": "We believe in minimalism, high performance, and user-centric design."},
+  {"q": "can you convert psd to html", "a": "Yes, we can convert any design file or prototype into clean, functional code."},
+  {"q": "do you do react", "a": "Yes, we are highly experienced in building complex applications with React."},
+  {"q": "do you do vue", "a": "We have extensive experience with Vue and other modern frontend frameworks."},
+  {"q": "do you do angular", "a": "Yes, we are proficient in Angular for large-scale enterprise applications."},
+  {"q": "can you build a blog", "a": "We build fast, secure, and custom-tailored blogs for personal or business use."},
+  {"q": "can you build a store", "a": "We create high-converting, secure, and robust e-commerce storefronts."},
+  {"q": "what if i have feedback", "a": "We encourage client feedback at every stage of the development process."},
+  {"q": "are you a freelancer", "a": "We are a professional digital agency with a dedicated team of experts."},
+  {"q": "how many people in the team", "a": "We are a team of passionate developers, designers, and creative strategists."},
+  {"q": "can i visit your office", "a": "We are fully remote, which allows us to collaborate with talent and clients worldwide."},
+  {"q": "do you speak english", "a": "Yes, we communicate primarily in English to ensure clear project understanding."},
+  {"q": "what is the best way to explain my project", "a": "Provide a brief document outlining your goals and target audience in our contact form."},
+  {"q": "do you write documentation", "a": "Yes, we provide full technical documentation for all custom projects."},
+  {"q": "can you fix bugs", "a": "We offer fast bug-fixing services for existing web applications."},
+  {"q": "do you handle domain registration", "a": "We can guide you through the process of domain registration and DNS setup."},
+  {"q": "what if my site crashes", "a": "Our support team provides rapid response to ensure your site is always available."},
+  {"q": "do you provide cloud services", "a": "We work with major cloud providers like AWS, Vercel, and Cloudflare."},
+  {"q": "do you do mobile optimization", "a": "Mobile-first development is at the heart of our design process."},
+  {"q": "are your sites fast", "a": "We use performance-first coding practices to ensure near-instant load times."},
+  {"q": "can you help with marketing", "a": "We provide the technical foundation for marketing; for strategy, we can consult with you."},
+  {"q": "do you do social media design", "a": "We can help you build the visual assets needed for your social media campaigns."},
+  {"q": "what is your response time", "a": "We aim to respond to all inquiries within 24 business hours."},
+  {"q": "can i call you", "a": "Please request a call via our contact section so we can schedule it correctly."},
+  {"q": "do you give free consultations", "a": "Yes, we offer an initial consultation to understand your project needs."},
+  {"q": "how do you bill", "a": "We offer both fixed-price and milestone-based billing to suit your project."},
+  {"q": "what currency do you accept", "a": "We accept major currencies; reach out to our team to discuss options."},
+  {"q": "do you need a deposit", "a": "Yes, a deposit is required to secure our team's time for your project."},
+  {"q": "can you do full stack", "a": "Yes, we provide full-stack services including database design and server logic."},
+  {"q": "do you know python", "a": "Yes, we use Python for backend logic, data processing, and AI integrations."},
+  {"q": "do you use databases", "a": "We work with both SQL and NoSQL databases depending on project requirements."},
+  {"q": "is my site seo ready", "a": "Every site we build is optimized for search engines from day one."},
+  {"q": "do you use typescript", "a": "TypeScript is our preferred language for building scalable, type-safe applications."},
+  {"q": "can you design a logo", "a": "We can assist with visual identity and logo design as part of our branding services."},
+  {"q": "do you provide wireframes", "a": "Yes, we provide wireframes and prototypes before any coding begins."},
+  {"q": "can you optimize my old site", "a": "We offer performance audits to significantly speed up your existing website."},
+  {"q": "do you use docker", "a": "Yes, we use containerization tools like Docker to streamline deployments."},
+  {"q": "what is your primary goal", "a": "Our goal is to build high-performance digital solutions that drive your business success."},
+  {"q": "do you have a newsletter", "a": "We do not have a public newsletter yet, but check our blog for updates!"},
+  {"q": "are you hiring", "a": "We are always looking for great talent; send your portfolio to our email!"},
+  {"q": "where are you based", "a": "We are a global team working from various locations to provide 24/7 service."},
+  {"q": "do you do maintenance contracts", "a": "Yes, we have custom monthly maintenance contracts available."},
+  {"q": "can you teach me how to use the site", "a": "Yes, we provide comprehensive training and documentation for your new platform."},
+  {"q": "do you use analytics", "a": "We integrate tools like Google Analytics and Matomo to help you track your growth."},
+  {"q": "is your work original", "a": "Every project is 100% custom-designed and coded from scratch for you."},
+  {"q": "can you integrate stripe", "a": "Yes, we have deep experience in integrating Stripe and other payment gateways."},
+  {"q": "do you do video editing", "a": "We focus on web and design, but we can help with visual assets for your site."},
+  {"q": "what do i need to prepare", "a": "Just bring your vision, your goals, and any reference material you love."},
+  {"q": "thanks", "a": "You are very welcome! Let me know if you need anything else."},
+  {"q": "goodbye", "a": "Goodbye! It was a pleasure assisting you today."},
+  {"q": "bye", "a": "Have a wonderful day! We look forward to working with you soon."},
+  {"q": "what is your project review process", "a": "We conduct regular milestone reviews and invite your feedback at every critical stage of development."},
+  {"q": "how do you handle revisions", "a": "We include a specific number of revision rounds in our proposals to ensure the final result matches your vision."},
+  {"q": "do you use slack for communication", "a": "Yes, we are comfortable using Slack, Microsoft Teams, or any other collaboration tool you prefer."},
+  {"q": "how often do you update me", "a": "We provide regular project status updates, either daily or weekly depending on your preference."},
+  {"q": "can i see progress updates", "a": "Absolutely! We provide staging links so you can see the live progress of your project at any time."},
+  {"q": "what if i don't like the design", "a": "Design is an iterative process; we will work with you until we achieve the look and feel you desire."},
+  {"q": "how do you track tasks", "a": "We use industry-standard project management tools like Trello, Jira, or Notion to keep everything organized."},
+  {"q": "can i request changes mid-project", "a": "Yes, we can adapt to changes, though significant scope adjustments may require a discussion on timelines."},
+  {"q": "how do you handle deadlines", "a": "We plan our development phases meticulously to ensure we meet all project milestones on time."},
+  {"q": "what if a deadline is missed", "a": "We prioritize transparency and will communicate any potential delays well in advance with a mitigation plan."},
+  {"q": "do you use agile methodology", "a": "Yes, we follow Agile principles to ensure flexibility and rapid delivery throughout the project lifecycle."},
+  {"q": "do you provide weekly reports", "a": "We can provide detailed progress reports weekly or at any frequency you require."},
+  {"q": "how do we communicate", "a": "We prefer email for formal documentation and chat tools for quick daily communications."},
+  {"q": "is the site mobile friendly", "a": "We prioritize mobile-first design, ensuring your site looks perfect on every phone and tablet."},
+  {"q": "do you support tablets", "a": "Yes, our responsive layouts are tested across a wide range of tablet devices."},
+  {"q": "do you support dark mode", "a": "We can implement a seamless dark mode feature to improve user comfort and aesthetics."},
+  {"q": "do you support accessibility features", "a": "Yes, we follow WCAG guidelines to ensure your site is usable by everyone, including those with disabilities."},
+  {"q": "are your sites screen-reader compatible", "a": "We build with semantic HTML and ARIA labels to ensure full compatibility with screen readers."},
+  {"q": "do you use keyboard navigation", "a": "We ensure all interactive elements are fully accessible via keyboard for better usability."},
+  {"q": "do you follow color contrast guidelines", "a": "We strictly adhere to accessibility standards for color contrast in all our designs."},
+  {"q": "can you make it responsive for iphone", "a": "Our designs are fully optimized for all iOS devices and modern browser environments."},
+  {"q": "can you make it responsive for android", "a": "We test our layouts extensively on Android devices to ensure a smooth experience."},
+  {"q": "is the menu touch friendly", "a": "We design intuitive, touch-friendly navigation menus specifically for mobile users."},
+  {"q": "do you use cdn", "a": "We integrate CDNs like Cloudflare to serve your site content with maximum speed globally."},
+  {"q": "do you support pwa", "a": "Yes, we can build Progressive Web Apps that offer offline capabilities and mobile-like performance."},
+  {"q": "what about browser compatibility", "a": "We test across all major modern browsers to ensure consistent performance for all your users."},
+  {"q": "do you work with legacy code", "a": "We can audit and modernize older codebases to improve performance and security."},
+  {"q": "can you migrate my database", "a": "We are experienced in migrating data between various database systems safely and accurately."},
+  {"q": "do you use tailwind", "a": "Yes, we frequently use Tailwind CSS for building modern, responsive, and maintainable interfaces."},
+  {"q": "do you use sass", "a": "We use SASS to write clean, modular, and scalable CSS for our projects."},
+  {"q": "do you use webpack", "a": "We use modern build tools like Webpack or Vite to optimize and bundle your code."},
+  {"q": "do you support websockets", "a": "We can implement WebSockets for real-time features like live chats or notifications."},
+  {"q": "do you use graphql", "a": "Yes, we are highly experienced in implementing efficient GraphQL APIs."},
+  {"q": "do you use firebase", "a": "We can integrate Firebase for authentication, database, and real-time features."},
+  {"q": "do you use vercel", "a": "We love deploying on Vercel for its speed and seamless integration with modern frameworks."},
+  {"q": "do you use netlify", "a": "Yes, we are fully capable of handling deployments on Netlify."},
+  {"q": "can you help write content", "a": "We focus on the technical side, but we can recommend professional copywriters to assist you."},
+  {"q": "do you do copywriting", "a": "We partner with expert copywriters if you need help with your site's text content."},
+  {"q": "can you add a blog section", "a": "Yes, we can add a custom, easy-to-manage blog section to your website."},
+  {"q": "can you help with email marketing", "a": "We can integrate email marketing tools like Mailchimp or ConvertKit into your site."},
+  {"q": "can you optimize images", "a": "We automatically optimize all images for fast loading without losing quality."},
+  {"q": "can you add a contact form", "a": "We create secure, spam-protected contact forms tailored to your specific data collection needs."},
+  {"q": "do you use ssl", "a": "Security is mandatory; we ensure every site we build has active SSL encryption."},
+  {"q": "what about gdpr", "a": "We ensure our sites have the necessary features and cookie controls to help you maintain GDPR compliance."},
+  {"q": "do you include a privacy policy", "a": "We can implement the technical structure for a privacy policy page on your site."},
+  {"q": "is the site protected from ddos", "a": "We implement robust security layers to protect your site against common attacks including DDoS."},
+  {"q": "do you perform security audits", "a": "Yes, we conduct comprehensive security audits on all final deliverables."},
+  {"q": "do you handle cookie consent", "a": "We integrate GDPR-compliant cookie consent banners that are easy for users to manage."},
+  {"q": "do you offer encrypted backups", "a": "We ensure your site data is regularly backed up and securely stored."},
+  {"q": "do you use shopify", "a": "Yes, we can customize Shopify themes and develop bespoke apps for the Shopify ecosystem."},
+  {"q": "can you build a cart system", "a": "We build secure, efficient shopping cart systems for any e-commerce requirement."},
+  {"q": "do you integrate paypal", "a": "Yes, we have extensive experience integrating PayPal and other global payment gateways."},
+  {"q": "can you set up subscription billing", "a": "We can implement recurring billing systems using Stripe or similar services."},
+  {"q": "do you handle inventory systems", "a": "We can build or integrate inventory management solutions for your online store."},
+  {"q": "can you integrate shipping apis", "a": "Yes, we integrate shipping APIs to automate your logistics and tracking processes."},
+  {"q": "do you support multi currency", "a": "We can design your store to support multiple currencies and localized pricing."},
+  {"q": "can you add discount codes", "a": "We can implement custom discount code systems for your marketing campaigns."},
+  {"q": "can you build an order dashboard", "a": "We create intuitive dashboards for you to manage orders and view your analytics."},
+  {"q": "are you an agency", "a": "We are a high-performance digital agency specializing in custom web solutions."},
+  {"q": "do you have a designer", "a": "Yes, our team includes talented UI/UX designers who focus on user experience."},
+  {"q": "do you have a project manager", "a": "We assign a dedicated project coordinator to ensure your project runs smoothly."},
+  {"q": "can i talk to the developer", "a": "We believe in direct communication and can arrange calls with the lead developers."},
+  {"q": "do you work with overseas clients", "a": "We work with clients from all over the world and are comfortable with various time zones."},
+  {"q": "what is your time zone", "a": "Our team operates in a global-friendly time zone structure to ensure consistent availability."},
+  {"q": "are you available for long term projects", "a": "Yes, we welcome long-term partnerships and maintenance agreements."},
+  {"q": "do you do one off projects", "a": "We are happy to assist with short-term, specific project needs as well."},
+  {"q": "can i hire you for a consultation", "a": "Yes, we offer technical consulting services; please contact us to discuss your goals."},
+  {"q": "do you accept referrals", "a": "We appreciate referrals! Please have them contact us via our official channels."},
+  {"q": "can you help with social media", "a": "We can integrate your social media feeds and share buttons directly into your site."},
+  {"q": "do you use redis", "a": "We use Redis for caching and to improve the speed of data-intensive applications."},
+  {"q": "do you use elasticsearch", "a": "Yes, we implement Elasticsearch to provide powerful, fast search functionality for your users."},
+  {"q": "can you design newsletters", "a": "We can create branded email newsletter templates for your marketing efforts."},
+  {"q": "can you add a newsletter popup", "a": "We can implement user-friendly newsletter sign-up popups that don't disrupt the experience."},
+  {"q": "can you build a dashboard", "a": "We design and build custom data visualization dashboards tailored to your KPIs."},
+  {"q": "is my data on my own server", "a": "We can host your application on your own servers or provide a cloud-based solution of your choice."},
+  {"q": "do you provide technical documentation", "a": "We provide thorough documentation for every feature we build for your team's reference."},
+  {"q": "can you integrate google maps", "a": "Yes, we can seamlessly embed and customize Google Maps for your location or services."},
+  {"q": "do you use typescript", "a": "Yes, we utilize TypeScript for all our major projects to ensure robust and type-safe code."},
+  {"q": "can you optimize my old site", "a": "We perform in-depth audits to significantly improve the performance of your existing website."},
+  {"q": "do you use docker", "a": "Yes, we utilize containerization with Docker to ensure your application runs identically in every environment."},
+  {"q": "can you do full stack", "a": "We provide comprehensive full-stack development, including server, database, and client-side logic."},
+  {"q": "do you know python", "a": "Yes, we use Python for backend logic, data-driven applications, and AI integrations."},
+  {"q": "do you use databases", "a": "We work with both SQL and NoSQL databases, choosing the best fit for your data needs."},
+  {"q": "can you design a logo", "a": "We provide branding services, including logo design, to help define your visual identity."},
+  {"q": "do you provide wireframes", "a": "We always create wireframes and high-fidelity prototypes before writing the final code."},
+  {"q": "can you teach me how to use the site", "a": "We provide walkthroughs and clear documentation to help you manage your new site confidently."},
+  {"q": "do you use analytics", "a": "We can integrate tools like Google Analytics or Plausible to help you track your growth."},
+  {"q": "is your work original", "a": "Every single project is designed and coded from scratch specifically for your requirements."},
+  {"q": "do you do video editing", "a": "Our focus is web and design, but we can help optimize and implement your video assets."},
+  {"q": "what do i need to prepare", "a": "Have your project goals, target audience, and any visual references ready for our first call."},
+  {"q": "can you help with speed", "a": "We use advanced performance tuning to ensure your site loads instantly on any connection."},
+  {"q": "do you support legacy browsers", "a": "We can configure support for older browsers if your user base specifically requires it."},
+  {"q": "can you handle high traffic", "a": "We architect our solutions to be scalable, ensuring your site performs under high visitor volumes."},
+  {"q": "do you use nodejs", "a": "Yes, we use Node.js for high-performance server-side operations and API development."},
+  {"q": "can you do api integrations", "a": "We are experts in integrating third-party APIs into your existing workflows."},
+  {"q": "how do you test", "a": "We perform unit testing, integration testing, and manual QA to ensure bug-free releases."},
+  {"q": "do you use material design", "a": "We are proficient in Material Design and other modern design systems to guide your UI."},
+  {"q": "can you do custom animations", "a": "Yes, we create high-performance custom animations that bring your site to life."},
+  {"q": "are you a startup", "a": "We are a mature team of experts helping startups and enterprises alike succeed online."},
+  {"q": "thank you for your time", "a": "You are very welcome! We are always here if you have more questions."}
+]
+
+  
+
